@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  chart1:
+  - apiVersion: v2
+    appVersion: "1"
+    created: "2026-06-01T05:53:24.855528073Z"
+    dependencies:
+    - name: nginx
+      repository: https://charts.bitnami.com/bitnami
+      version: 24.0.4
+    description: A Helm chart for Kubernetes
+    digest: 4a775ac03d1ac2caf2321d17a8c658f80567e0ca41dfae62e709ee28fc3fe045
+    name: chart1
+    urls:
+    - chart1-1.tgz
+    version: "1"
+generated: "2026-06-01T05:53:24.847133688Z"
