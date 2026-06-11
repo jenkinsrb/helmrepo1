@@ -1,0 +1,1501 @@
+TicketID,TruckModel,Region,Priority,Subject,Description,Category
+DT00001,Actros,India,Low,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00002,Arocs,Germany,Medium,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00003,Atego,USA,High,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00004,eActros,Brazil,Low,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00005,Axor,South Africa,Medium,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00006,Actros,India,High,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00007,Arocs,Germany,Low,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00008,Atego,USA,Medium,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00009,eActros,Brazil,High,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00010,Axor,South Africa,Low,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00011,Actros,India,Medium,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00012,Arocs,Germany,High,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00013,Atego,USA,Low,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00014,eActros,Brazil,Medium,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00015,Axor,South Africa,High,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00016,Actros,India,Low,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00017,Arocs,Germany,Medium,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00018,Atego,USA,High,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00019,eActros,Brazil,Low,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00020,Axor,South Africa,Medium,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00021,Actros,India,High,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00022,Arocs,Germany,Low,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00023,Atego,USA,Medium,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00024,eActros,Brazil,High,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00025,Axor,South Africa,Low,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00026,Actros,India,Medium,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00027,Arocs,Germany,High,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00028,Atego,USA,Low,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00029,eActros,Brazil,Medium,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00030,Axor,South Africa,High,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00031,Actros,India,Low,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00032,Arocs,Germany,Medium,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00033,Atego,USA,High,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00034,eActros,Brazil,Low,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00035,Axor,South Africa,Medium,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00036,Actros,India,High,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00037,Arocs,Germany,Low,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00038,Atego,USA,Medium,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00039,eActros,Brazil,High,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00040,Axor,South Africa,Low,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00041,Actros,India,Medium,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00042,Arocs,Germany,High,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00043,Atego,USA,Low,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00044,eActros,Brazil,Medium,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00045,Axor,South Africa,High,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00046,Actros,India,Low,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00047,Arocs,Germany,Medium,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00048,Atego,USA,High,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00049,eActros,Brazil,Low,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00050,Axor,South Africa,Medium,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00051,Actros,India,High,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00052,Arocs,Germany,Low,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00053,Atego,USA,Medium,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00054,eActros,Brazil,High,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00055,Axor,South Africa,Low,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00056,Actros,India,Medium,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00057,Arocs,Germany,High,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00058,Atego,USA,Low,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00059,eActros,Brazil,Medium,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00060,Axor,South Africa,High,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00061,Actros,India,Low,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00062,Arocs,Germany,Medium,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00063,Atego,USA,High,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00064,eActros,Brazil,Low,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00065,Axor,South Africa,Medium,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00066,Actros,India,High,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00067,Arocs,Germany,Low,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00068,Atego,USA,Medium,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00069,eActros,Brazil,High,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00070,Axor,South Africa,Low,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00071,Actros,India,Medium,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00072,Arocs,Germany,High,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00073,Atego,USA,Low,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00074,eActros,Brazil,Medium,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00075,Axor,South Africa,High,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00076,Actros,India,Low,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00077,Arocs,Germany,Medium,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00078,Atego,USA,High,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00079,eActros,Brazil,Low,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00080,Axor,South Africa,Medium,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00081,Actros,India,High,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00082,Arocs,Germany,Low,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00083,Atego,USA,Medium,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00084,eActros,Brazil,High,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00085,Axor,South Africa,Low,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00086,Actros,India,Medium,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00087,Arocs,Germany,High,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00088,Atego,USA,Low,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00089,eActros,Brazil,Medium,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00090,Axor,South Africa,High,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00091,Actros,India,Low,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00092,Arocs,Germany,Medium,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00093,Atego,USA,High,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00094,eActros,Brazil,Low,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00095,Axor,South Africa,Medium,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00096,Actros,India,High,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00097,Arocs,Germany,Low,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00098,Atego,USA,Medium,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00099,eActros,Brazil,High,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00100,Axor,South Africa,Low,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00101,Actros,India,Medium,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00102,Arocs,Germany,High,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00103,Atego,USA,Low,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00104,eActros,Brazil,Medium,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00105,Axor,South Africa,High,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00106,Actros,India,Low,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00107,Arocs,Germany,Medium,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00108,Atego,USA,High,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00109,eActros,Brazil,Low,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00110,Axor,South Africa,Medium,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00111,Actros,India,High,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00112,Arocs,Germany,Low,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00113,Atego,USA,Medium,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00114,eActros,Brazil,High,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00115,Axor,South Africa,Low,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00116,Actros,India,Medium,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00117,Arocs,Germany,High,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00118,Atego,USA,Low,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00119,eActros,Brazil,Medium,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00120,Axor,South Africa,High,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00121,Actros,India,Low,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00122,Arocs,Germany,Medium,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00123,Atego,USA,High,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00124,eActros,Brazil,Low,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00125,Axor,South Africa,Medium,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00126,Actros,India,High,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00127,Arocs,Germany,Low,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00128,Atego,USA,Medium,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00129,eActros,Brazil,High,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00130,Axor,South Africa,Low,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00131,Actros,India,Medium,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00132,Arocs,Germany,High,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00133,Atego,USA,Low,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00134,eActros,Brazil,Medium,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00135,Axor,South Africa,High,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00136,Actros,India,Low,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00137,Arocs,Germany,Medium,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00138,Atego,USA,High,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00139,eActros,Brazil,Low,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00140,Axor,South Africa,Medium,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00141,Actros,India,High,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00142,Arocs,Germany,Low,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00143,Atego,USA,Medium,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00144,eActros,Brazil,High,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00145,Axor,South Africa,Low,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00146,Actros,India,Medium,Engine Issue,Engine overheating during uphill operation,Engine Issue
+DT00147,Arocs,Germany,High,Engine Issue,Engine misfire detected during acceleration,Engine Issue
+DT00148,Atego,USA,Low,Engine Issue,Oil pressure warning displayed on dashboard,Engine Issue
+DT00149,eActros,Brazil,Medium,Engine Issue,Engine power reduced unexpectedly,Engine Issue
+DT00150,Axor,South Africa,High,Engine Issue,Coolant temperature exceeded threshold,Engine Issue
+DT00151,Actros,India,Low,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00152,Arocs,Germany,Medium,Brake System,ABS fault detected during operation,Brake System
+DT00153,Atego,USA,High,Brake System,Brake sensor communication error,Brake System
+DT00154,eActros,Brazil,Low,Brake System,Parking brake not releasing properly,Brake System
+DT00155,Axor,South Africa,Medium,Brake System,Brake pedal response delayed,Brake System
+DT00156,Actros,India,High,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00157,Arocs,Germany,Low,Brake System,ABS fault detected during operation,Brake System
+DT00158,Atego,USA,Medium,Brake System,Brake sensor communication error,Brake System
+DT00159,eActros,Brazil,High,Brake System,Parking brake not releasing properly,Brake System
+DT00160,Axor,South Africa,Low,Brake System,Brake pedal response delayed,Brake System
+DT00161,Actros,India,Medium,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00162,Arocs,Germany,High,Brake System,ABS fault detected during operation,Brake System
+DT00163,Atego,USA,Low,Brake System,Brake sensor communication error,Brake System
+DT00164,eActros,Brazil,Medium,Brake System,Parking brake not releasing properly,Brake System
+DT00165,Axor,South Africa,High,Brake System,Brake pedal response delayed,Brake System
+DT00166,Actros,India,Low,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00167,Arocs,Germany,Medium,Brake System,ABS fault detected during operation,Brake System
+DT00168,Atego,USA,High,Brake System,Brake sensor communication error,Brake System
+DT00169,eActros,Brazil,Low,Brake System,Parking brake not releasing properly,Brake System
+DT00170,Axor,South Africa,Medium,Brake System,Brake pedal response delayed,Brake System
+DT00171,Actros,India,High,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00172,Arocs,Germany,Low,Brake System,ABS fault detected during operation,Brake System
+DT00173,Atego,USA,Medium,Brake System,Brake sensor communication error,Brake System
+DT00174,eActros,Brazil,High,Brake System,Parking brake not releasing properly,Brake System
+DT00175,Axor,South Africa,Low,Brake System,Brake pedal response delayed,Brake System
+DT00176,Actros,India,Medium,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00177,Arocs,Germany,High,Brake System,ABS fault detected during operation,Brake System
+DT00178,Atego,USA,Low,Brake System,Brake sensor communication error,Brake System
+DT00179,eActros,Brazil,Medium,Brake System,Parking brake not releasing properly,Brake System
+DT00180,Axor,South Africa,High,Brake System,Brake pedal response delayed,Brake System
+DT00181,Actros,India,Low,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00182,Arocs,Germany,Medium,Brake System,ABS fault detected during operation,Brake System
+DT00183,Atego,USA,High,Brake System,Brake sensor communication error,Brake System
+DT00184,eActros,Brazil,Low,Brake System,Parking brake not releasing properly,Brake System
+DT00185,Axor,South Africa,Medium,Brake System,Brake pedal response delayed,Brake System
+DT00186,Actros,India,High,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00187,Arocs,Germany,Low,Brake System,ABS fault detected during operation,Brake System
+DT00188,Atego,USA,Medium,Brake System,Brake sensor communication error,Brake System
+DT00189,eActros,Brazil,High,Brake System,Parking brake not releasing properly,Brake System
+DT00190,Axor,South Africa,Low,Brake System,Brake pedal response delayed,Brake System
+DT00191,Actros,India,Medium,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00192,Arocs,Germany,High,Brake System,ABS fault detected during operation,Brake System
+DT00193,Atego,USA,Low,Brake System,Brake sensor communication error,Brake System
+DT00194,eActros,Brazil,Medium,Brake System,Parking brake not releasing properly,Brake System
+DT00195,Axor,South Africa,High,Brake System,Brake pedal response delayed,Brake System
+DT00196,Actros,India,Low,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00197,Arocs,Germany,Medium,Brake System,ABS fault detected during operation,Brake System
+DT00198,Atego,USA,High,Brake System,Brake sensor communication error,Brake System
+DT00199,eActros,Brazil,Low,Brake System,Parking brake not releasing properly,Brake System
+DT00200,Axor,South Africa,Medium,Brake System,Brake pedal response delayed,Brake System
+DT00201,Actros,India,High,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00202,Arocs,Germany,Low,Brake System,ABS fault detected during operation,Brake System
+DT00203,Atego,USA,Medium,Brake System,Brake sensor communication error,Brake System
+DT00204,eActros,Brazil,High,Brake System,Parking brake not releasing properly,Brake System
+DT00205,Axor,South Africa,Low,Brake System,Brake pedal response delayed,Brake System
+DT00206,Actros,India,Medium,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00207,Arocs,Germany,High,Brake System,ABS fault detected during operation,Brake System
+DT00208,Atego,USA,Low,Brake System,Brake sensor communication error,Brake System
+DT00209,eActros,Brazil,Medium,Brake System,Parking brake not releasing properly,Brake System
+DT00210,Axor,South Africa,High,Brake System,Brake pedal response delayed,Brake System
+DT00211,Actros,India,Low,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00212,Arocs,Germany,Medium,Brake System,ABS fault detected during operation,Brake System
+DT00213,Atego,USA,High,Brake System,Brake sensor communication error,Brake System
+DT00214,eActros,Brazil,Low,Brake System,Parking brake not releasing properly,Brake System
+DT00215,Axor,South Africa,Medium,Brake System,Brake pedal response delayed,Brake System
+DT00216,Actros,India,High,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00217,Arocs,Germany,Low,Brake System,ABS fault detected during operation,Brake System
+DT00218,Atego,USA,Medium,Brake System,Brake sensor communication error,Brake System
+DT00219,eActros,Brazil,High,Brake System,Parking brake not releasing properly,Brake System
+DT00220,Axor,South Africa,Low,Brake System,Brake pedal response delayed,Brake System
+DT00221,Actros,India,Medium,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00222,Arocs,Germany,High,Brake System,ABS fault detected during operation,Brake System
+DT00223,Atego,USA,Low,Brake System,Brake sensor communication error,Brake System
+DT00224,eActros,Brazil,Medium,Brake System,Parking brake not releasing properly,Brake System
+DT00225,Axor,South Africa,High,Brake System,Brake pedal response delayed,Brake System
+DT00226,Actros,India,Low,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00227,Arocs,Germany,Medium,Brake System,ABS fault detected during operation,Brake System
+DT00228,Atego,USA,High,Brake System,Brake sensor communication error,Brake System
+DT00229,eActros,Brazil,Low,Brake System,Parking brake not releasing properly,Brake System
+DT00230,Axor,South Africa,Medium,Brake System,Brake pedal response delayed,Brake System
+DT00231,Actros,India,High,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00232,Arocs,Germany,Low,Brake System,ABS fault detected during operation,Brake System
+DT00233,Atego,USA,Medium,Brake System,Brake sensor communication error,Brake System
+DT00234,eActros,Brazil,High,Brake System,Parking brake not releasing properly,Brake System
+DT00235,Axor,South Africa,Low,Brake System,Brake pedal response delayed,Brake System
+DT00236,Actros,India,Medium,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00237,Arocs,Germany,High,Brake System,ABS fault detected during operation,Brake System
+DT00238,Atego,USA,Low,Brake System,Brake sensor communication error,Brake System
+DT00239,eActros,Brazil,Medium,Brake System,Parking brake not releasing properly,Brake System
+DT00240,Axor,South Africa,High,Brake System,Brake pedal response delayed,Brake System
+DT00241,Actros,India,Low,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00242,Arocs,Germany,Medium,Brake System,ABS fault detected during operation,Brake System
+DT00243,Atego,USA,High,Brake System,Brake sensor communication error,Brake System
+DT00244,eActros,Brazil,Low,Brake System,Parking brake not releasing properly,Brake System
+DT00245,Axor,South Africa,Medium,Brake System,Brake pedal response delayed,Brake System
+DT00246,Actros,India,High,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00247,Arocs,Germany,Low,Brake System,ABS fault detected during operation,Brake System
+DT00248,Atego,USA,Medium,Brake System,Brake sensor communication error,Brake System
+DT00249,eActros,Brazil,High,Brake System,Parking brake not releasing properly,Brake System
+DT00250,Axor,South Africa,Low,Brake System,Brake pedal response delayed,Brake System
+DT00251,Actros,India,Medium,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00252,Arocs,Germany,High,Brake System,ABS fault detected during operation,Brake System
+DT00253,Atego,USA,Low,Brake System,Brake sensor communication error,Brake System
+DT00254,eActros,Brazil,Medium,Brake System,Parking brake not releasing properly,Brake System
+DT00255,Axor,South Africa,High,Brake System,Brake pedal response delayed,Brake System
+DT00256,Actros,India,Low,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00257,Arocs,Germany,Medium,Brake System,ABS fault detected during operation,Brake System
+DT00258,Atego,USA,High,Brake System,Brake sensor communication error,Brake System
+DT00259,eActros,Brazil,Low,Brake System,Parking brake not releasing properly,Brake System
+DT00260,Axor,South Africa,Medium,Brake System,Brake pedal response delayed,Brake System
+DT00261,Actros,India,High,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00262,Arocs,Germany,Low,Brake System,ABS fault detected during operation,Brake System
+DT00263,Atego,USA,Medium,Brake System,Brake sensor communication error,Brake System
+DT00264,eActros,Brazil,High,Brake System,Parking brake not releasing properly,Brake System
+DT00265,Axor,South Africa,Low,Brake System,Brake pedal response delayed,Brake System
+DT00266,Actros,India,Medium,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00267,Arocs,Germany,High,Brake System,ABS fault detected during operation,Brake System
+DT00268,Atego,USA,Low,Brake System,Brake sensor communication error,Brake System
+DT00269,eActros,Brazil,Medium,Brake System,Parking brake not releasing properly,Brake System
+DT00270,Axor,South Africa,High,Brake System,Brake pedal response delayed,Brake System
+DT00271,Actros,India,Low,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00272,Arocs,Germany,Medium,Brake System,ABS fault detected during operation,Brake System
+DT00273,Atego,USA,High,Brake System,Brake sensor communication error,Brake System
+DT00274,eActros,Brazil,Low,Brake System,Parking brake not releasing properly,Brake System
+DT00275,Axor,South Africa,Medium,Brake System,Brake pedal response delayed,Brake System
+DT00276,Actros,India,High,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00277,Arocs,Germany,Low,Brake System,ABS fault detected during operation,Brake System
+DT00278,Atego,USA,Medium,Brake System,Brake sensor communication error,Brake System
+DT00279,eActros,Brazil,High,Brake System,Parking brake not releasing properly,Brake System
+DT00280,Axor,South Africa,Low,Brake System,Brake pedal response delayed,Brake System
+DT00281,Actros,India,Medium,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00282,Arocs,Germany,High,Brake System,ABS fault detected during operation,Brake System
+DT00283,Atego,USA,Low,Brake System,Brake sensor communication error,Brake System
+DT00284,eActros,Brazil,Medium,Brake System,Parking brake not releasing properly,Brake System
+DT00285,Axor,South Africa,High,Brake System,Brake pedal response delayed,Brake System
+DT00286,Actros,India,Low,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00287,Arocs,Germany,Medium,Brake System,ABS fault detected during operation,Brake System
+DT00288,Atego,USA,High,Brake System,Brake sensor communication error,Brake System
+DT00289,eActros,Brazil,Low,Brake System,Parking brake not releasing properly,Brake System
+DT00290,Axor,South Africa,Medium,Brake System,Brake pedal response delayed,Brake System
+DT00291,Actros,India,High,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00292,Arocs,Germany,Low,Brake System,ABS fault detected during operation,Brake System
+DT00293,Atego,USA,Medium,Brake System,Brake sensor communication error,Brake System
+DT00294,eActros,Brazil,High,Brake System,Parking brake not releasing properly,Brake System
+DT00295,Axor,South Africa,Low,Brake System,Brake pedal response delayed,Brake System
+DT00296,Actros,India,Medium,Brake System,Brake pressure warning indicator remains active,Brake System
+DT00297,Arocs,Germany,High,Brake System,ABS fault detected during operation,Brake System
+DT00298,Atego,USA,Low,Brake System,Brake sensor communication error,Brake System
+DT00299,eActros,Brazil,Medium,Brake System,Parking brake not releasing properly,Brake System
+DT00300,Axor,South Africa,High,Brake System,Brake pedal response delayed,Brake System
+DT00301,Actros,India,Low,Transmission,Transmission shifting delay observed,Transmission
+DT00302,Arocs,Germany,Medium,Transmission,Gearbox noise during gear change,Transmission
+DT00303,Atego,USA,High,Transmission,Automatic transmission not engaging,Transmission
+DT00304,eActros,Brazil,Low,Transmission,Gear slipping under load,Transmission
+DT00305,Axor,South Africa,Medium,Transmission,Transmission warning light active,Transmission
+DT00306,Actros,India,High,Transmission,Transmission shifting delay observed,Transmission
+DT00307,Arocs,Germany,Low,Transmission,Gearbox noise during gear change,Transmission
+DT00308,Atego,USA,Medium,Transmission,Automatic transmission not engaging,Transmission
+DT00309,eActros,Brazil,High,Transmission,Gear slipping under load,Transmission
+DT00310,Axor,South Africa,Low,Transmission,Transmission warning light active,Transmission
+DT00311,Actros,India,Medium,Transmission,Transmission shifting delay observed,Transmission
+DT00312,Arocs,Germany,High,Transmission,Gearbox noise during gear change,Transmission
+DT00313,Atego,USA,Low,Transmission,Automatic transmission not engaging,Transmission
+DT00314,eActros,Brazil,Medium,Transmission,Gear slipping under load,Transmission
+DT00315,Axor,South Africa,High,Transmission,Transmission warning light active,Transmission
+DT00316,Actros,India,Low,Transmission,Transmission shifting delay observed,Transmission
+DT00317,Arocs,Germany,Medium,Transmission,Gearbox noise during gear change,Transmission
+DT00318,Atego,USA,High,Transmission,Automatic transmission not engaging,Transmission
+DT00319,eActros,Brazil,Low,Transmission,Gear slipping under load,Transmission
+DT00320,Axor,South Africa,Medium,Transmission,Transmission warning light active,Transmission
+DT00321,Actros,India,High,Transmission,Transmission shifting delay observed,Transmission
+DT00322,Arocs,Germany,Low,Transmission,Gearbox noise during gear change,Transmission
+DT00323,Atego,USA,Medium,Transmission,Automatic transmission not engaging,Transmission
+DT00324,eActros,Brazil,High,Transmission,Gear slipping under load,Transmission
+DT00325,Axor,South Africa,Low,Transmission,Transmission warning light active,Transmission
+DT00326,Actros,India,Medium,Transmission,Transmission shifting delay observed,Transmission
+DT00327,Arocs,Germany,High,Transmission,Gearbox noise during gear change,Transmission
+DT00328,Atego,USA,Low,Transmission,Automatic transmission not engaging,Transmission
+DT00329,eActros,Brazil,Medium,Transmission,Gear slipping under load,Transmission
+DT00330,Axor,South Africa,High,Transmission,Transmission warning light active,Transmission
+DT00331,Actros,India,Low,Transmission,Transmission shifting delay observed,Transmission
+DT00332,Arocs,Germany,Medium,Transmission,Gearbox noise during gear change,Transmission
+DT00333,Atego,USA,High,Transmission,Automatic transmission not engaging,Transmission
+DT00334,eActros,Brazil,Low,Transmission,Gear slipping under load,Transmission
+DT00335,Axor,South Africa,Medium,Transmission,Transmission warning light active,Transmission
+DT00336,Actros,India,High,Transmission,Transmission shifting delay observed,Transmission
+DT00337,Arocs,Germany,Low,Transmission,Gearbox noise during gear change,Transmission
+DT00338,Atego,USA,Medium,Transmission,Automatic transmission not engaging,Transmission
+DT00339,eActros,Brazil,High,Transmission,Gear slipping under load,Transmission
+DT00340,Axor,South Africa,Low,Transmission,Transmission warning light active,Transmission
+DT00341,Actros,India,Medium,Transmission,Transmission shifting delay observed,Transmission
+DT00342,Arocs,Germany,High,Transmission,Gearbox noise during gear change,Transmission
+DT00343,Atego,USA,Low,Transmission,Automatic transmission not engaging,Transmission
+DT00344,eActros,Brazil,Medium,Transmission,Gear slipping under load,Transmission
+DT00345,Axor,South Africa,High,Transmission,Transmission warning light active,Transmission
+DT00346,Actros,India,Low,Transmission,Transmission shifting delay observed,Transmission
+DT00347,Arocs,Germany,Medium,Transmission,Gearbox noise during gear change,Transmission
+DT00348,Atego,USA,High,Transmission,Automatic transmission not engaging,Transmission
+DT00349,eActros,Brazil,Low,Transmission,Gear slipping under load,Transmission
+DT00350,Axor,South Africa,Medium,Transmission,Transmission warning light active,Transmission
+DT00351,Actros,India,High,Transmission,Transmission shifting delay observed,Transmission
+DT00352,Arocs,Germany,Low,Transmission,Gearbox noise during gear change,Transmission
+DT00353,Atego,USA,Medium,Transmission,Automatic transmission not engaging,Transmission
+DT00354,eActros,Brazil,High,Transmission,Gear slipping under load,Transmission
+DT00355,Axor,South Africa,Low,Transmission,Transmission warning light active,Transmission
+DT00356,Actros,India,Medium,Transmission,Transmission shifting delay observed,Transmission
+DT00357,Arocs,Germany,High,Transmission,Gearbox noise during gear change,Transmission
+DT00358,Atego,USA,Low,Transmission,Automatic transmission not engaging,Transmission
+DT00359,eActros,Brazil,Medium,Transmission,Gear slipping under load,Transmission
+DT00360,Axor,South Africa,High,Transmission,Transmission warning light active,Transmission
+DT00361,Actros,India,Low,Transmission,Transmission shifting delay observed,Transmission
+DT00362,Arocs,Germany,Medium,Transmission,Gearbox noise during gear change,Transmission
+DT00363,Atego,USA,High,Transmission,Automatic transmission not engaging,Transmission
+DT00364,eActros,Brazil,Low,Transmission,Gear slipping under load,Transmission
+DT00365,Axor,South Africa,Medium,Transmission,Transmission warning light active,Transmission
+DT00366,Actros,India,High,Transmission,Transmission shifting delay observed,Transmission
+DT00367,Arocs,Germany,Low,Transmission,Gearbox noise during gear change,Transmission
+DT00368,Atego,USA,Medium,Transmission,Automatic transmission not engaging,Transmission
+DT00369,eActros,Brazil,High,Transmission,Gear slipping under load,Transmission
+DT00370,Axor,South Africa,Low,Transmission,Transmission warning light active,Transmission
+DT00371,Actros,India,Medium,Transmission,Transmission shifting delay observed,Transmission
+DT00372,Arocs,Germany,High,Transmission,Gearbox noise during gear change,Transmission
+DT00373,Atego,USA,Low,Transmission,Automatic transmission not engaging,Transmission
+DT00374,eActros,Brazil,Medium,Transmission,Gear slipping under load,Transmission
+DT00375,Axor,South Africa,High,Transmission,Transmission warning light active,Transmission
+DT00376,Actros,India,Low,Transmission,Transmission shifting delay observed,Transmission
+DT00377,Arocs,Germany,Medium,Transmission,Gearbox noise during gear change,Transmission
+DT00378,Atego,USA,High,Transmission,Automatic transmission not engaging,Transmission
+DT00379,eActros,Brazil,Low,Transmission,Gear slipping under load,Transmission
+DT00380,Axor,South Africa,Medium,Transmission,Transmission warning light active,Transmission
+DT00381,Actros,India,High,Transmission,Transmission shifting delay observed,Transmission
+DT00382,Arocs,Germany,Low,Transmission,Gearbox noise during gear change,Transmission
+DT00383,Atego,USA,Medium,Transmission,Automatic transmission not engaging,Transmission
+DT00384,eActros,Brazil,High,Transmission,Gear slipping under load,Transmission
+DT00385,Axor,South Africa,Low,Transmission,Transmission warning light active,Transmission
+DT00386,Actros,India,Medium,Transmission,Transmission shifting delay observed,Transmission
+DT00387,Arocs,Germany,High,Transmission,Gearbox noise during gear change,Transmission
+DT00388,Atego,USA,Low,Transmission,Automatic transmission not engaging,Transmission
+DT00389,eActros,Brazil,Medium,Transmission,Gear slipping under load,Transmission
+DT00390,Axor,South Africa,High,Transmission,Transmission warning light active,Transmission
+DT00391,Actros,India,Low,Transmission,Transmission shifting delay observed,Transmission
+DT00392,Arocs,Germany,Medium,Transmission,Gearbox noise during gear change,Transmission
+DT00393,Atego,USA,High,Transmission,Automatic transmission not engaging,Transmission
+DT00394,eActros,Brazil,Low,Transmission,Gear slipping under load,Transmission
+DT00395,Axor,South Africa,Medium,Transmission,Transmission warning light active,Transmission
+DT00396,Actros,India,High,Transmission,Transmission shifting delay observed,Transmission
+DT00397,Arocs,Germany,Low,Transmission,Gearbox noise during gear change,Transmission
+DT00398,Atego,USA,Medium,Transmission,Automatic transmission not engaging,Transmission
+DT00399,eActros,Brazil,High,Transmission,Gear slipping under load,Transmission
+DT00400,Axor,South Africa,Low,Transmission,Transmission warning light active,Transmission
+DT00401,Actros,India,Medium,Transmission,Transmission shifting delay observed,Transmission
+DT00402,Arocs,Germany,High,Transmission,Gearbox noise during gear change,Transmission
+DT00403,Atego,USA,Low,Transmission,Automatic transmission not engaging,Transmission
+DT00404,eActros,Brazil,Medium,Transmission,Gear slipping under load,Transmission
+DT00405,Axor,South Africa,High,Transmission,Transmission warning light active,Transmission
+DT00406,Actros,India,Low,Transmission,Transmission shifting delay observed,Transmission
+DT00407,Arocs,Germany,Medium,Transmission,Gearbox noise during gear change,Transmission
+DT00408,Atego,USA,High,Transmission,Automatic transmission not engaging,Transmission
+DT00409,eActros,Brazil,Low,Transmission,Gear slipping under load,Transmission
+DT00410,Axor,South Africa,Medium,Transmission,Transmission warning light active,Transmission
+DT00411,Actros,India,High,Transmission,Transmission shifting delay observed,Transmission
+DT00412,Arocs,Germany,Low,Transmission,Gearbox noise during gear change,Transmission
+DT00413,Atego,USA,Medium,Transmission,Automatic transmission not engaging,Transmission
+DT00414,eActros,Brazil,High,Transmission,Gear slipping under load,Transmission
+DT00415,Axor,South Africa,Low,Transmission,Transmission warning light active,Transmission
+DT00416,Actros,India,Medium,Transmission,Transmission shifting delay observed,Transmission
+DT00417,Arocs,Germany,High,Transmission,Gearbox noise during gear change,Transmission
+DT00418,Atego,USA,Low,Transmission,Automatic transmission not engaging,Transmission
+DT00419,eActros,Brazil,Medium,Transmission,Gear slipping under load,Transmission
+DT00420,Axor,South Africa,High,Transmission,Transmission warning light active,Transmission
+DT00421,Actros,India,Low,Transmission,Transmission shifting delay observed,Transmission
+DT00422,Arocs,Germany,Medium,Transmission,Gearbox noise during gear change,Transmission
+DT00423,Atego,USA,High,Transmission,Automatic transmission not engaging,Transmission
+DT00424,eActros,Brazil,Low,Transmission,Gear slipping under load,Transmission
+DT00425,Axor,South Africa,Medium,Transmission,Transmission warning light active,Transmission
+DT00426,Actros,India,High,Transmission,Transmission shifting delay observed,Transmission
+DT00427,Arocs,Germany,Low,Transmission,Gearbox noise during gear change,Transmission
+DT00428,Atego,USA,Medium,Transmission,Automatic transmission not engaging,Transmission
+DT00429,eActros,Brazil,High,Transmission,Gear slipping under load,Transmission
+DT00430,Axor,South Africa,Low,Transmission,Transmission warning light active,Transmission
+DT00431,Actros,India,Medium,Transmission,Transmission shifting delay observed,Transmission
+DT00432,Arocs,Germany,High,Transmission,Gearbox noise during gear change,Transmission
+DT00433,Atego,USA,Low,Transmission,Automatic transmission not engaging,Transmission
+DT00434,eActros,Brazil,Medium,Transmission,Gear slipping under load,Transmission
+DT00435,Axor,South Africa,High,Transmission,Transmission warning light active,Transmission
+DT00436,Actros,India,Low,Transmission,Transmission shifting delay observed,Transmission
+DT00437,Arocs,Germany,Medium,Transmission,Gearbox noise during gear change,Transmission
+DT00438,Atego,USA,High,Transmission,Automatic transmission not engaging,Transmission
+DT00439,eActros,Brazil,Low,Transmission,Gear slipping under load,Transmission
+DT00440,Axor,South Africa,Medium,Transmission,Transmission warning light active,Transmission
+DT00441,Actros,India,High,Transmission,Transmission shifting delay observed,Transmission
+DT00442,Arocs,Germany,Low,Transmission,Gearbox noise during gear change,Transmission
+DT00443,Atego,USA,Medium,Transmission,Automatic transmission not engaging,Transmission
+DT00444,eActros,Brazil,High,Transmission,Gear slipping under load,Transmission
+DT00445,Axor,South Africa,Low,Transmission,Transmission warning light active,Transmission
+DT00446,Actros,India,Medium,Transmission,Transmission shifting delay observed,Transmission
+DT00447,Arocs,Germany,High,Transmission,Gearbox noise during gear change,Transmission
+DT00448,Atego,USA,Low,Transmission,Automatic transmission not engaging,Transmission
+DT00449,eActros,Brazil,Medium,Transmission,Gear slipping under load,Transmission
+DT00450,Axor,South Africa,High,Transmission,Transmission warning light active,Transmission
+DT00451,Actros,India,Low,Electrical,Battery draining overnight,Electrical
+DT00452,Arocs,Germany,Medium,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00453,Atego,USA,High,Electrical,Alternator charging issue detected,Electrical
+DT00454,eActros,Brazil,Low,Electrical,Headlights intermittently failing,Electrical
+DT00455,Axor,South Africa,Medium,Electrical,Power distribution module error,Electrical
+DT00456,Actros,India,High,Electrical,Battery draining overnight,Electrical
+DT00457,Arocs,Germany,Low,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00458,Atego,USA,Medium,Electrical,Alternator charging issue detected,Electrical
+DT00459,eActros,Brazil,High,Electrical,Headlights intermittently failing,Electrical
+DT00460,Axor,South Africa,Low,Electrical,Power distribution module error,Electrical
+DT00461,Actros,India,Medium,Electrical,Battery draining overnight,Electrical
+DT00462,Arocs,Germany,High,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00463,Atego,USA,Low,Electrical,Alternator charging issue detected,Electrical
+DT00464,eActros,Brazil,Medium,Electrical,Headlights intermittently failing,Electrical
+DT00465,Axor,South Africa,High,Electrical,Power distribution module error,Electrical
+DT00466,Actros,India,Low,Electrical,Battery draining overnight,Electrical
+DT00467,Arocs,Germany,Medium,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00468,Atego,USA,High,Electrical,Alternator charging issue detected,Electrical
+DT00469,eActros,Brazil,Low,Electrical,Headlights intermittently failing,Electrical
+DT00470,Axor,South Africa,Medium,Electrical,Power distribution module error,Electrical
+DT00471,Actros,India,High,Electrical,Battery draining overnight,Electrical
+DT00472,Arocs,Germany,Low,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00473,Atego,USA,Medium,Electrical,Alternator charging issue detected,Electrical
+DT00474,eActros,Brazil,High,Electrical,Headlights intermittently failing,Electrical
+DT00475,Axor,South Africa,Low,Electrical,Power distribution module error,Electrical
+DT00476,Actros,India,Medium,Electrical,Battery draining overnight,Electrical
+DT00477,Arocs,Germany,High,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00478,Atego,USA,Low,Electrical,Alternator charging issue detected,Electrical
+DT00479,eActros,Brazil,Medium,Electrical,Headlights intermittently failing,Electrical
+DT00480,Axor,South Africa,High,Electrical,Power distribution module error,Electrical
+DT00481,Actros,India,Low,Electrical,Battery draining overnight,Electrical
+DT00482,Arocs,Germany,Medium,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00483,Atego,USA,High,Electrical,Alternator charging issue detected,Electrical
+DT00484,eActros,Brazil,Low,Electrical,Headlights intermittently failing,Electrical
+DT00485,Axor,South Africa,Medium,Electrical,Power distribution module error,Electrical
+DT00486,Actros,India,High,Electrical,Battery draining overnight,Electrical
+DT00487,Arocs,Germany,Low,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00488,Atego,USA,Medium,Electrical,Alternator charging issue detected,Electrical
+DT00489,eActros,Brazil,High,Electrical,Headlights intermittently failing,Electrical
+DT00490,Axor,South Africa,Low,Electrical,Power distribution module error,Electrical
+DT00491,Actros,India,Medium,Electrical,Battery draining overnight,Electrical
+DT00492,Arocs,Germany,High,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00493,Atego,USA,Low,Electrical,Alternator charging issue detected,Electrical
+DT00494,eActros,Brazil,Medium,Electrical,Headlights intermittently failing,Electrical
+DT00495,Axor,South Africa,High,Electrical,Power distribution module error,Electrical
+DT00496,Actros,India,Low,Electrical,Battery draining overnight,Electrical
+DT00497,Arocs,Germany,Medium,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00498,Atego,USA,High,Electrical,Alternator charging issue detected,Electrical
+DT00499,eActros,Brazil,Low,Electrical,Headlights intermittently failing,Electrical
+DT00500,Axor,South Africa,Medium,Electrical,Power distribution module error,Electrical
+DT00501,Actros,India,High,Electrical,Battery draining overnight,Electrical
+DT00502,Arocs,Germany,Low,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00503,Atego,USA,Medium,Electrical,Alternator charging issue detected,Electrical
+DT00504,eActros,Brazil,High,Electrical,Headlights intermittently failing,Electrical
+DT00505,Axor,South Africa,Low,Electrical,Power distribution module error,Electrical
+DT00506,Actros,India,Medium,Electrical,Battery draining overnight,Electrical
+DT00507,Arocs,Germany,High,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00508,Atego,USA,Low,Electrical,Alternator charging issue detected,Electrical
+DT00509,eActros,Brazil,Medium,Electrical,Headlights intermittently failing,Electrical
+DT00510,Axor,South Africa,High,Electrical,Power distribution module error,Electrical
+DT00511,Actros,India,Low,Electrical,Battery draining overnight,Electrical
+DT00512,Arocs,Germany,Medium,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00513,Atego,USA,High,Electrical,Alternator charging issue detected,Electrical
+DT00514,eActros,Brazil,Low,Electrical,Headlights intermittently failing,Electrical
+DT00515,Axor,South Africa,Medium,Electrical,Power distribution module error,Electrical
+DT00516,Actros,India,High,Electrical,Battery draining overnight,Electrical
+DT00517,Arocs,Germany,Low,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00518,Atego,USA,Medium,Electrical,Alternator charging issue detected,Electrical
+DT00519,eActros,Brazil,High,Electrical,Headlights intermittently failing,Electrical
+DT00520,Axor,South Africa,Low,Electrical,Power distribution module error,Electrical
+DT00521,Actros,India,Medium,Electrical,Battery draining overnight,Electrical
+DT00522,Arocs,Germany,High,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00523,Atego,USA,Low,Electrical,Alternator charging issue detected,Electrical
+DT00524,eActros,Brazil,Medium,Electrical,Headlights intermittently failing,Electrical
+DT00525,Axor,South Africa,High,Electrical,Power distribution module error,Electrical
+DT00526,Actros,India,Low,Electrical,Battery draining overnight,Electrical
+DT00527,Arocs,Germany,Medium,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00528,Atego,USA,High,Electrical,Alternator charging issue detected,Electrical
+DT00529,eActros,Brazil,Low,Electrical,Headlights intermittently failing,Electrical
+DT00530,Axor,South Africa,Medium,Electrical,Power distribution module error,Electrical
+DT00531,Actros,India,High,Electrical,Battery draining overnight,Electrical
+DT00532,Arocs,Germany,Low,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00533,Atego,USA,Medium,Electrical,Alternator charging issue detected,Electrical
+DT00534,eActros,Brazil,High,Electrical,Headlights intermittently failing,Electrical
+DT00535,Axor,South Africa,Low,Electrical,Power distribution module error,Electrical
+DT00536,Actros,India,Medium,Electrical,Battery draining overnight,Electrical
+DT00537,Arocs,Germany,High,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00538,Atego,USA,Low,Electrical,Alternator charging issue detected,Electrical
+DT00539,eActros,Brazil,Medium,Electrical,Headlights intermittently failing,Electrical
+DT00540,Axor,South Africa,High,Electrical,Power distribution module error,Electrical
+DT00541,Actros,India,Low,Electrical,Battery draining overnight,Electrical
+DT00542,Arocs,Germany,Medium,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00543,Atego,USA,High,Electrical,Alternator charging issue detected,Electrical
+DT00544,eActros,Brazil,Low,Electrical,Headlights intermittently failing,Electrical
+DT00545,Axor,South Africa,Medium,Electrical,Power distribution module error,Electrical
+DT00546,Actros,India,High,Electrical,Battery draining overnight,Electrical
+DT00547,Arocs,Germany,Low,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00548,Atego,USA,Medium,Electrical,Alternator charging issue detected,Electrical
+DT00549,eActros,Brazil,High,Electrical,Headlights intermittently failing,Electrical
+DT00550,Axor,South Africa,Low,Electrical,Power distribution module error,Electrical
+DT00551,Actros,India,Medium,Electrical,Battery draining overnight,Electrical
+DT00552,Arocs,Germany,High,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00553,Atego,USA,Low,Electrical,Alternator charging issue detected,Electrical
+DT00554,eActros,Brazil,Medium,Electrical,Headlights intermittently failing,Electrical
+DT00555,Axor,South Africa,High,Electrical,Power distribution module error,Electrical
+DT00556,Actros,India,Low,Electrical,Battery draining overnight,Electrical
+DT00557,Arocs,Germany,Medium,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00558,Atego,USA,High,Electrical,Alternator charging issue detected,Electrical
+DT00559,eActros,Brazil,Low,Electrical,Headlights intermittently failing,Electrical
+DT00560,Axor,South Africa,Medium,Electrical,Power distribution module error,Electrical
+DT00561,Actros,India,High,Electrical,Battery draining overnight,Electrical
+DT00562,Arocs,Germany,Low,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00563,Atego,USA,Medium,Electrical,Alternator charging issue detected,Electrical
+DT00564,eActros,Brazil,High,Electrical,Headlights intermittently failing,Electrical
+DT00565,Axor,South Africa,Low,Electrical,Power distribution module error,Electrical
+DT00566,Actros,India,Medium,Electrical,Battery draining overnight,Electrical
+DT00567,Arocs,Germany,High,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00568,Atego,USA,Low,Electrical,Alternator charging issue detected,Electrical
+DT00569,eActros,Brazil,Medium,Electrical,Headlights intermittently failing,Electrical
+DT00570,Axor,South Africa,High,Electrical,Power distribution module error,Electrical
+DT00571,Actros,India,Low,Electrical,Battery draining overnight,Electrical
+DT00572,Arocs,Germany,Medium,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00573,Atego,USA,High,Electrical,Alternator charging issue detected,Electrical
+DT00574,eActros,Brazil,Low,Electrical,Headlights intermittently failing,Electrical
+DT00575,Axor,South Africa,Medium,Electrical,Power distribution module error,Electrical
+DT00576,Actros,India,High,Electrical,Battery draining overnight,Electrical
+DT00577,Arocs,Germany,Low,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00578,Atego,USA,Medium,Electrical,Alternator charging issue detected,Electrical
+DT00579,eActros,Brazil,High,Electrical,Headlights intermittently failing,Electrical
+DT00580,Axor,South Africa,Low,Electrical,Power distribution module error,Electrical
+DT00581,Actros,India,Medium,Electrical,Battery draining overnight,Electrical
+DT00582,Arocs,Germany,High,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00583,Atego,USA,Low,Electrical,Alternator charging issue detected,Electrical
+DT00584,eActros,Brazil,Medium,Electrical,Headlights intermittently failing,Electrical
+DT00585,Axor,South Africa,High,Electrical,Power distribution module error,Electrical
+DT00586,Actros,India,Low,Electrical,Battery draining overnight,Electrical
+DT00587,Arocs,Germany,Medium,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00588,Atego,USA,High,Electrical,Alternator charging issue detected,Electrical
+DT00589,eActros,Brazil,Low,Electrical,Headlights intermittently failing,Electrical
+DT00590,Axor,South Africa,Medium,Electrical,Power distribution module error,Electrical
+DT00591,Actros,India,High,Electrical,Battery draining overnight,Electrical
+DT00592,Arocs,Germany,Low,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00593,Atego,USA,Medium,Electrical,Alternator charging issue detected,Electrical
+DT00594,eActros,Brazil,High,Electrical,Headlights intermittently failing,Electrical
+DT00595,Axor,South Africa,Low,Electrical,Power distribution module error,Electrical
+DT00596,Actros,India,Medium,Electrical,Battery draining overnight,Electrical
+DT00597,Arocs,Germany,High,Electrical,Dashboard electrical fault indicator active,Electrical
+DT00598,Atego,USA,Low,Electrical,Alternator charging issue detected,Electrical
+DT00599,eActros,Brazil,Medium,Electrical,Headlights intermittently failing,Electrical
+DT00600,Axor,South Africa,High,Electrical,Power distribution module error,Electrical
+DT00601,Actros,India,Low,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00602,Arocs,Germany,Medium,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00603,Atego,USA,High,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00604,eActros,Brazil,Low,Fuel System,Injector performance issue detected,Fuel System
+DT00605,Axor,South Africa,Medium,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00606,Actros,India,High,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00607,Arocs,Germany,Low,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00608,Atego,USA,Medium,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00609,eActros,Brazil,High,Fuel System,Injector performance issue detected,Fuel System
+DT00610,Axor,South Africa,Low,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00611,Actros,India,Medium,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00612,Arocs,Germany,High,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00613,Atego,USA,Low,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00614,eActros,Brazil,Medium,Fuel System,Injector performance issue detected,Fuel System
+DT00615,Axor,South Africa,High,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00616,Actros,India,Low,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00617,Arocs,Germany,Medium,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00618,Atego,USA,High,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00619,eActros,Brazil,Low,Fuel System,Injector performance issue detected,Fuel System
+DT00620,Axor,South Africa,Medium,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00621,Actros,India,High,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00622,Arocs,Germany,Low,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00623,Atego,USA,Medium,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00624,eActros,Brazil,High,Fuel System,Injector performance issue detected,Fuel System
+DT00625,Axor,South Africa,Low,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00626,Actros,India,Medium,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00627,Arocs,Germany,High,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00628,Atego,USA,Low,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00629,eActros,Brazil,Medium,Fuel System,Injector performance issue detected,Fuel System
+DT00630,Axor,South Africa,High,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00631,Actros,India,Low,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00632,Arocs,Germany,Medium,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00633,Atego,USA,High,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00634,eActros,Brazil,Low,Fuel System,Injector performance issue detected,Fuel System
+DT00635,Axor,South Africa,Medium,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00636,Actros,India,High,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00637,Arocs,Germany,Low,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00638,Atego,USA,Medium,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00639,eActros,Brazil,High,Fuel System,Injector performance issue detected,Fuel System
+DT00640,Axor,South Africa,Low,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00641,Actros,India,Medium,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00642,Arocs,Germany,High,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00643,Atego,USA,Low,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00644,eActros,Brazil,Medium,Fuel System,Injector performance issue detected,Fuel System
+DT00645,Axor,South Africa,High,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00646,Actros,India,Low,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00647,Arocs,Germany,Medium,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00648,Atego,USA,High,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00649,eActros,Brazil,Low,Fuel System,Injector performance issue detected,Fuel System
+DT00650,Axor,South Africa,Medium,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00651,Actros,India,High,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00652,Arocs,Germany,Low,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00653,Atego,USA,Medium,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00654,eActros,Brazil,High,Fuel System,Injector performance issue detected,Fuel System
+DT00655,Axor,South Africa,Low,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00656,Actros,India,Medium,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00657,Arocs,Germany,High,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00658,Atego,USA,Low,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00659,eActros,Brazil,Medium,Fuel System,Injector performance issue detected,Fuel System
+DT00660,Axor,South Africa,High,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00661,Actros,India,Low,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00662,Arocs,Germany,Medium,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00663,Atego,USA,High,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00664,eActros,Brazil,Low,Fuel System,Injector performance issue detected,Fuel System
+DT00665,Axor,South Africa,Medium,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00666,Actros,India,High,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00667,Arocs,Germany,Low,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00668,Atego,USA,Medium,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00669,eActros,Brazil,High,Fuel System,Injector performance issue detected,Fuel System
+DT00670,Axor,South Africa,Low,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00671,Actros,India,Medium,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00672,Arocs,Germany,High,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00673,Atego,USA,Low,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00674,eActros,Brazil,Medium,Fuel System,Injector performance issue detected,Fuel System
+DT00675,Axor,South Africa,High,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00676,Actros,India,Low,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00677,Arocs,Germany,Medium,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00678,Atego,USA,High,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00679,eActros,Brazil,Low,Fuel System,Injector performance issue detected,Fuel System
+DT00680,Axor,South Africa,Medium,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00681,Actros,India,High,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00682,Arocs,Germany,Low,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00683,Atego,USA,Medium,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00684,eActros,Brazil,High,Fuel System,Injector performance issue detected,Fuel System
+DT00685,Axor,South Africa,Low,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00686,Actros,India,Medium,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00687,Arocs,Germany,High,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00688,Atego,USA,Low,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00689,eActros,Brazil,Medium,Fuel System,Injector performance issue detected,Fuel System
+DT00690,Axor,South Africa,High,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00691,Actros,India,Low,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00692,Arocs,Germany,Medium,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00693,Atego,USA,High,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00694,eActros,Brazil,Low,Fuel System,Injector performance issue detected,Fuel System
+DT00695,Axor,South Africa,Medium,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00696,Actros,India,High,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00697,Arocs,Germany,Low,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00698,Atego,USA,Medium,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00699,eActros,Brazil,High,Fuel System,Injector performance issue detected,Fuel System
+DT00700,Axor,South Africa,Low,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00701,Actros,India,Medium,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00702,Arocs,Germany,High,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00703,Atego,USA,Low,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00704,eActros,Brazil,Medium,Fuel System,Injector performance issue detected,Fuel System
+DT00705,Axor,South Africa,High,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00706,Actros,India,Low,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00707,Arocs,Germany,Medium,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00708,Atego,USA,High,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00709,eActros,Brazil,Low,Fuel System,Injector performance issue detected,Fuel System
+DT00710,Axor,South Africa,Medium,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00711,Actros,India,High,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00712,Arocs,Germany,Low,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00713,Atego,USA,Medium,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00714,eActros,Brazil,High,Fuel System,Injector performance issue detected,Fuel System
+DT00715,Axor,South Africa,Low,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00716,Actros,India,Medium,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00717,Arocs,Germany,High,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00718,Atego,USA,Low,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00719,eActros,Brazil,Medium,Fuel System,Injector performance issue detected,Fuel System
+DT00720,Axor,South Africa,High,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00721,Actros,India,Low,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00722,Arocs,Germany,Medium,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00723,Atego,USA,High,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00724,eActros,Brazil,Low,Fuel System,Injector performance issue detected,Fuel System
+DT00725,Axor,South Africa,Medium,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00726,Actros,India,High,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00727,Arocs,Germany,Low,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00728,Atego,USA,Medium,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00729,eActros,Brazil,High,Fuel System,Injector performance issue detected,Fuel System
+DT00730,Axor,South Africa,Low,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00731,Actros,India,Medium,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00732,Arocs,Germany,High,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00733,Atego,USA,Low,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00734,eActros,Brazil,Medium,Fuel System,Injector performance issue detected,Fuel System
+DT00735,Axor,South Africa,High,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00736,Actros,India,Low,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00737,Arocs,Germany,Medium,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00738,Atego,USA,High,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00739,eActros,Brazil,Low,Fuel System,Injector performance issue detected,Fuel System
+DT00740,Axor,South Africa,Medium,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00741,Actros,India,High,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00742,Arocs,Germany,Low,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00743,Atego,USA,Medium,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00744,eActros,Brazil,High,Fuel System,Injector performance issue detected,Fuel System
+DT00745,Axor,South Africa,Low,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00746,Actros,India,Medium,Fuel System,Fuel leakage detected near tank,Fuel System
+DT00747,Arocs,Germany,High,Fuel System,Fuel consumption higher than expected,Fuel System
+DT00748,Atego,USA,Low,Fuel System,Fuel pump malfunction reported,Fuel System
+DT00749,eActros,Brazil,Medium,Fuel System,Injector performance issue detected,Fuel System
+DT00750,Axor,South Africa,High,Fuel System,Fuel level sensor inaccurate,Fuel System
+DT00751,Actros,India,Low,Telematics,Telematics device offline,Telematics
+DT00752,Arocs,Germany,Medium,Telematics,Vehicle data not syncing to portal,Telematics
+DT00753,Atego,USA,High,Telematics,GPS location not updating,Telematics
+DT00754,eActros,Brazil,Low,Telematics,Telematics gateway disconnected,Telematics
+DT00755,Axor,South Africa,Medium,Telematics,Fleet tracking data unavailable,Telematics
+DT00756,Actros,India,High,Telematics,Telematics device offline,Telematics
+DT00757,Arocs,Germany,Low,Telematics,Vehicle data not syncing to portal,Telematics
+DT00758,Atego,USA,Medium,Telematics,GPS location not updating,Telematics
+DT00759,eActros,Brazil,High,Telematics,Telematics gateway disconnected,Telematics
+DT00760,Axor,South Africa,Low,Telematics,Fleet tracking data unavailable,Telematics
+DT00761,Actros,India,Medium,Telematics,Telematics device offline,Telematics
+DT00762,Arocs,Germany,High,Telematics,Vehicle data not syncing to portal,Telematics
+DT00763,Atego,USA,Low,Telematics,GPS location not updating,Telematics
+DT00764,eActros,Brazil,Medium,Telematics,Telematics gateway disconnected,Telematics
+DT00765,Axor,South Africa,High,Telematics,Fleet tracking data unavailable,Telematics
+DT00766,Actros,India,Low,Telematics,Telematics device offline,Telematics
+DT00767,Arocs,Germany,Medium,Telematics,Vehicle data not syncing to portal,Telematics
+DT00768,Atego,USA,High,Telematics,GPS location not updating,Telematics
+DT00769,eActros,Brazil,Low,Telematics,Telematics gateway disconnected,Telematics
+DT00770,Axor,South Africa,Medium,Telematics,Fleet tracking data unavailable,Telematics
+DT00771,Actros,India,High,Telematics,Telematics device offline,Telematics
+DT00772,Arocs,Germany,Low,Telematics,Vehicle data not syncing to portal,Telematics
+DT00773,Atego,USA,Medium,Telematics,GPS location not updating,Telematics
+DT00774,eActros,Brazil,High,Telematics,Telematics gateway disconnected,Telematics
+DT00775,Axor,South Africa,Low,Telematics,Fleet tracking data unavailable,Telematics
+DT00776,Actros,India,Medium,Telematics,Telematics device offline,Telematics
+DT00777,Arocs,Germany,High,Telematics,Vehicle data not syncing to portal,Telematics
+DT00778,Atego,USA,Low,Telematics,GPS location not updating,Telematics
+DT00779,eActros,Brazil,Medium,Telematics,Telematics gateway disconnected,Telematics
+DT00780,Axor,South Africa,High,Telematics,Fleet tracking data unavailable,Telematics
+DT00781,Actros,India,Low,Telematics,Telematics device offline,Telematics
+DT00782,Arocs,Germany,Medium,Telematics,Vehicle data not syncing to portal,Telematics
+DT00783,Atego,USA,High,Telematics,GPS location not updating,Telematics
+DT00784,eActros,Brazil,Low,Telematics,Telematics gateway disconnected,Telematics
+DT00785,Axor,South Africa,Medium,Telematics,Fleet tracking data unavailable,Telematics
+DT00786,Actros,India,High,Telematics,Telematics device offline,Telematics
+DT00787,Arocs,Germany,Low,Telematics,Vehicle data not syncing to portal,Telematics
+DT00788,Atego,USA,Medium,Telematics,GPS location not updating,Telematics
+DT00789,eActros,Brazil,High,Telematics,Telematics gateway disconnected,Telematics
+DT00790,Axor,South Africa,Low,Telematics,Fleet tracking data unavailable,Telematics
+DT00791,Actros,India,Medium,Telematics,Telematics device offline,Telematics
+DT00792,Arocs,Germany,High,Telematics,Vehicle data not syncing to portal,Telematics
+DT00793,Atego,USA,Low,Telematics,GPS location not updating,Telematics
+DT00794,eActros,Brazil,Medium,Telematics,Telematics gateway disconnected,Telematics
+DT00795,Axor,South Africa,High,Telematics,Fleet tracking data unavailable,Telematics
+DT00796,Actros,India,Low,Telematics,Telematics device offline,Telematics
+DT00797,Arocs,Germany,Medium,Telematics,Vehicle data not syncing to portal,Telematics
+DT00798,Atego,USA,High,Telematics,GPS location not updating,Telematics
+DT00799,eActros,Brazil,Low,Telematics,Telematics gateway disconnected,Telematics
+DT00800,Axor,South Africa,Medium,Telematics,Fleet tracking data unavailable,Telematics
+DT00801,Actros,India,High,Telematics,Telematics device offline,Telematics
+DT00802,Arocs,Germany,Low,Telematics,Vehicle data not syncing to portal,Telematics
+DT00803,Atego,USA,Medium,Telematics,GPS location not updating,Telematics
+DT00804,eActros,Brazil,High,Telematics,Telematics gateway disconnected,Telematics
+DT00805,Axor,South Africa,Low,Telematics,Fleet tracking data unavailable,Telematics
+DT00806,Actros,India,Medium,Telematics,Telematics device offline,Telematics
+DT00807,Arocs,Germany,High,Telematics,Vehicle data not syncing to portal,Telematics
+DT00808,Atego,USA,Low,Telematics,GPS location not updating,Telematics
+DT00809,eActros,Brazil,Medium,Telematics,Telematics gateway disconnected,Telematics
+DT00810,Axor,South Africa,High,Telematics,Fleet tracking data unavailable,Telematics
+DT00811,Actros,India,Low,Telematics,Telematics device offline,Telematics
+DT00812,Arocs,Germany,Medium,Telematics,Vehicle data not syncing to portal,Telematics
+DT00813,Atego,USA,High,Telematics,GPS location not updating,Telematics
+DT00814,eActros,Brazil,Low,Telematics,Telematics gateway disconnected,Telematics
+DT00815,Axor,South Africa,Medium,Telematics,Fleet tracking data unavailable,Telematics
+DT00816,Actros,India,High,Telematics,Telematics device offline,Telematics
+DT00817,Arocs,Germany,Low,Telematics,Vehicle data not syncing to portal,Telematics
+DT00818,Atego,USA,Medium,Telematics,GPS location not updating,Telematics
+DT00819,eActros,Brazil,High,Telematics,Telematics gateway disconnected,Telematics
+DT00820,Axor,South Africa,Low,Telematics,Fleet tracking data unavailable,Telematics
+DT00821,Actros,India,Medium,Telematics,Telematics device offline,Telematics
+DT00822,Arocs,Germany,High,Telematics,Vehicle data not syncing to portal,Telematics
+DT00823,Atego,USA,Low,Telematics,GPS location not updating,Telematics
+DT00824,eActros,Brazil,Medium,Telematics,Telematics gateway disconnected,Telematics
+DT00825,Axor,South Africa,High,Telematics,Fleet tracking data unavailable,Telematics
+DT00826,Actros,India,Low,Telematics,Telematics device offline,Telematics
+DT00827,Arocs,Germany,Medium,Telematics,Vehicle data not syncing to portal,Telematics
+DT00828,Atego,USA,High,Telematics,GPS location not updating,Telematics
+DT00829,eActros,Brazil,Low,Telematics,Telematics gateway disconnected,Telematics
+DT00830,Axor,South Africa,Medium,Telematics,Fleet tracking data unavailable,Telematics
+DT00831,Actros,India,High,Telematics,Telematics device offline,Telematics
+DT00832,Arocs,Germany,Low,Telematics,Vehicle data not syncing to portal,Telematics
+DT00833,Atego,USA,Medium,Telematics,GPS location not updating,Telematics
+DT00834,eActros,Brazil,High,Telematics,Telematics gateway disconnected,Telematics
+DT00835,Axor,South Africa,Low,Telematics,Fleet tracking data unavailable,Telematics
+DT00836,Actros,India,Medium,Telematics,Telematics device offline,Telematics
+DT00837,Arocs,Germany,High,Telematics,Vehicle data not syncing to portal,Telematics
+DT00838,Atego,USA,Low,Telematics,GPS location not updating,Telematics
+DT00839,eActros,Brazil,Medium,Telematics,Telematics gateway disconnected,Telematics
+DT00840,Axor,South Africa,High,Telematics,Fleet tracking data unavailable,Telematics
+DT00841,Actros,India,Low,Telematics,Telematics device offline,Telematics
+DT00842,Arocs,Germany,Medium,Telematics,Vehicle data not syncing to portal,Telematics
+DT00843,Atego,USA,High,Telematics,GPS location not updating,Telematics
+DT00844,eActros,Brazil,Low,Telematics,Telematics gateway disconnected,Telematics
+DT00845,Axor,South Africa,Medium,Telematics,Fleet tracking data unavailable,Telematics
+DT00846,Actros,India,High,Telematics,Telematics device offline,Telematics
+DT00847,Arocs,Germany,Low,Telematics,Vehicle data not syncing to portal,Telematics
+DT00848,Atego,USA,Medium,Telematics,GPS location not updating,Telematics
+DT00849,eActros,Brazil,High,Telematics,Telematics gateway disconnected,Telematics
+DT00850,Axor,South Africa,Low,Telematics,Fleet tracking data unavailable,Telematics
+DT00851,Actros,India,Medium,Telematics,Telematics device offline,Telematics
+DT00852,Arocs,Germany,High,Telematics,Vehicle data not syncing to portal,Telematics
+DT00853,Atego,USA,Low,Telematics,GPS location not updating,Telematics
+DT00854,eActros,Brazil,Medium,Telematics,Telematics gateway disconnected,Telematics
+DT00855,Axor,South Africa,High,Telematics,Fleet tracking data unavailable,Telematics
+DT00856,Actros,India,Low,Telematics,Telematics device offline,Telematics
+DT00857,Arocs,Germany,Medium,Telematics,Vehicle data not syncing to portal,Telematics
+DT00858,Atego,USA,High,Telematics,GPS location not updating,Telematics
+DT00859,eActros,Brazil,Low,Telematics,Telematics gateway disconnected,Telematics
+DT00860,Axor,South Africa,Medium,Telematics,Fleet tracking data unavailable,Telematics
+DT00861,Actros,India,High,Telematics,Telematics device offline,Telematics
+DT00862,Arocs,Germany,Low,Telematics,Vehicle data not syncing to portal,Telematics
+DT00863,Atego,USA,Medium,Telematics,GPS location not updating,Telematics
+DT00864,eActros,Brazil,High,Telematics,Telematics gateway disconnected,Telematics
+DT00865,Axor,South Africa,Low,Telematics,Fleet tracking data unavailable,Telematics
+DT00866,Actros,India,Medium,Telematics,Telematics device offline,Telematics
+DT00867,Arocs,Germany,High,Telematics,Vehicle data not syncing to portal,Telematics
+DT00868,Atego,USA,Low,Telematics,GPS location not updating,Telematics
+DT00869,eActros,Brazil,Medium,Telematics,Telematics gateway disconnected,Telematics
+DT00870,Axor,South Africa,High,Telematics,Fleet tracking data unavailable,Telematics
+DT00871,Actros,India,Low,Telematics,Telematics device offline,Telematics
+DT00872,Arocs,Germany,Medium,Telematics,Vehicle data not syncing to portal,Telematics
+DT00873,Atego,USA,High,Telematics,GPS location not updating,Telematics
+DT00874,eActros,Brazil,Low,Telematics,Telematics gateway disconnected,Telematics
+DT00875,Axor,South Africa,Medium,Telematics,Fleet tracking data unavailable,Telematics
+DT00876,Actros,India,High,Telematics,Telematics device offline,Telematics
+DT00877,Arocs,Germany,Low,Telematics,Vehicle data not syncing to portal,Telematics
+DT00878,Atego,USA,Medium,Telematics,GPS location not updating,Telematics
+DT00879,eActros,Brazil,High,Telematics,Telematics gateway disconnected,Telematics
+DT00880,Axor,South Africa,Low,Telematics,Fleet tracking data unavailable,Telematics
+DT00881,Actros,India,Medium,Telematics,Telematics device offline,Telematics
+DT00882,Arocs,Germany,High,Telematics,Vehicle data not syncing to portal,Telematics
+DT00883,Atego,USA,Low,Telematics,GPS location not updating,Telematics
+DT00884,eActros,Brazil,Medium,Telematics,Telematics gateway disconnected,Telematics
+DT00885,Axor,South Africa,High,Telematics,Fleet tracking data unavailable,Telematics
+DT00886,Actros,India,Low,Telematics,Telematics device offline,Telematics
+DT00887,Arocs,Germany,Medium,Telematics,Vehicle data not syncing to portal,Telematics
+DT00888,Atego,USA,High,Telematics,GPS location not updating,Telematics
+DT00889,eActros,Brazil,Low,Telematics,Telematics gateway disconnected,Telematics
+DT00890,Axor,South Africa,Medium,Telematics,Fleet tracking data unavailable,Telematics
+DT00891,Actros,India,High,Telematics,Telematics device offline,Telematics
+DT00892,Arocs,Germany,Low,Telematics,Vehicle data not syncing to portal,Telematics
+DT00893,Atego,USA,Medium,Telematics,GPS location not updating,Telematics
+DT00894,eActros,Brazil,High,Telematics,Telematics gateway disconnected,Telematics
+DT00895,Axor,South Africa,Low,Telematics,Fleet tracking data unavailable,Telematics
+DT00896,Actros,India,Medium,Telematics,Telematics device offline,Telematics
+DT00897,Arocs,Germany,High,Telematics,Vehicle data not syncing to portal,Telematics
+DT00898,Atego,USA,Low,Telematics,GPS location not updating,Telematics
+DT00899,eActros,Brazil,Medium,Telematics,Telematics gateway disconnected,Telematics
+DT00900,Axor,South Africa,High,Telematics,Fleet tracking data unavailable,Telematics
+DT00901,Actros,India,Low,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00902,Arocs,Germany,Medium,Application Issue,Portal reports not generating,Application Issue
+DT00903,Atego,USA,High,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00904,eActros,Brazil,Low,Application Issue,User access permissions incorrect,Application Issue
+DT00905,Axor,South Africa,Medium,Application Issue,Application timeout error encountered,Application Issue
+DT00906,Actros,India,High,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00907,Arocs,Germany,Low,Application Issue,Portal reports not generating,Application Issue
+DT00908,Atego,USA,Medium,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00909,eActros,Brazil,High,Application Issue,User access permissions incorrect,Application Issue
+DT00910,Axor,South Africa,Low,Application Issue,Application timeout error encountered,Application Issue
+DT00911,Actros,India,Medium,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00912,Arocs,Germany,High,Application Issue,Portal reports not generating,Application Issue
+DT00913,Atego,USA,Low,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00914,eActros,Brazil,Medium,Application Issue,User access permissions incorrect,Application Issue
+DT00915,Axor,South Africa,High,Application Issue,Application timeout error encountered,Application Issue
+DT00916,Actros,India,Low,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00917,Arocs,Germany,Medium,Application Issue,Portal reports not generating,Application Issue
+DT00918,Atego,USA,High,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00919,eActros,Brazil,Low,Application Issue,User access permissions incorrect,Application Issue
+DT00920,Axor,South Africa,Medium,Application Issue,Application timeout error encountered,Application Issue
+DT00921,Actros,India,High,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00922,Arocs,Germany,Low,Application Issue,Portal reports not generating,Application Issue
+DT00923,Atego,USA,Medium,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00924,eActros,Brazil,High,Application Issue,User access permissions incorrect,Application Issue
+DT00925,Axor,South Africa,Low,Application Issue,Application timeout error encountered,Application Issue
+DT00926,Actros,India,Medium,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00927,Arocs,Germany,High,Application Issue,Portal reports not generating,Application Issue
+DT00928,Atego,USA,Low,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00929,eActros,Brazil,Medium,Application Issue,User access permissions incorrect,Application Issue
+DT00930,Axor,South Africa,High,Application Issue,Application timeout error encountered,Application Issue
+DT00931,Actros,India,Low,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00932,Arocs,Germany,Medium,Application Issue,Portal reports not generating,Application Issue
+DT00933,Atego,USA,High,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00934,eActros,Brazil,Low,Application Issue,User access permissions incorrect,Application Issue
+DT00935,Axor,South Africa,Medium,Application Issue,Application timeout error encountered,Application Issue
+DT00936,Actros,India,High,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00937,Arocs,Germany,Low,Application Issue,Portal reports not generating,Application Issue
+DT00938,Atego,USA,Medium,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00939,eActros,Brazil,High,Application Issue,User access permissions incorrect,Application Issue
+DT00940,Axor,South Africa,Low,Application Issue,Application timeout error encountered,Application Issue
+DT00941,Actros,India,Medium,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00942,Arocs,Germany,High,Application Issue,Portal reports not generating,Application Issue
+DT00943,Atego,USA,Low,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00944,eActros,Brazil,Medium,Application Issue,User access permissions incorrect,Application Issue
+DT00945,Axor,South Africa,High,Application Issue,Application timeout error encountered,Application Issue
+DT00946,Actros,India,Low,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00947,Arocs,Germany,Medium,Application Issue,Portal reports not generating,Application Issue
+DT00948,Atego,USA,High,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00949,eActros,Brazil,Low,Application Issue,User access permissions incorrect,Application Issue
+DT00950,Axor,South Africa,Medium,Application Issue,Application timeout error encountered,Application Issue
+DT00951,Actros,India,High,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00952,Arocs,Germany,Low,Application Issue,Portal reports not generating,Application Issue
+DT00953,Atego,USA,Medium,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00954,eActros,Brazil,High,Application Issue,User access permissions incorrect,Application Issue
+DT00955,Axor,South Africa,Low,Application Issue,Application timeout error encountered,Application Issue
+DT00956,Actros,India,Medium,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00957,Arocs,Germany,High,Application Issue,Portal reports not generating,Application Issue
+DT00958,Atego,USA,Low,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00959,eActros,Brazil,Medium,Application Issue,User access permissions incorrect,Application Issue
+DT00960,Axor,South Africa,High,Application Issue,Application timeout error encountered,Application Issue
+DT00961,Actros,India,Low,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00962,Arocs,Germany,Medium,Application Issue,Portal reports not generating,Application Issue
+DT00963,Atego,USA,High,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00964,eActros,Brazil,Low,Application Issue,User access permissions incorrect,Application Issue
+DT00965,Axor,South Africa,Medium,Application Issue,Application timeout error encountered,Application Issue
+DT00966,Actros,India,High,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00967,Arocs,Germany,Low,Application Issue,Portal reports not generating,Application Issue
+DT00968,Atego,USA,Medium,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00969,eActros,Brazil,High,Application Issue,User access permissions incorrect,Application Issue
+DT00970,Axor,South Africa,Low,Application Issue,Application timeout error encountered,Application Issue
+DT00971,Actros,India,Medium,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00972,Arocs,Germany,High,Application Issue,Portal reports not generating,Application Issue
+DT00973,Atego,USA,Low,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00974,eActros,Brazil,Medium,Application Issue,User access permissions incorrect,Application Issue
+DT00975,Axor,South Africa,High,Application Issue,Application timeout error encountered,Application Issue
+DT00976,Actros,India,Low,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00977,Arocs,Germany,Medium,Application Issue,Portal reports not generating,Application Issue
+DT00978,Atego,USA,High,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00979,eActros,Brazil,Low,Application Issue,User access permissions incorrect,Application Issue
+DT00980,Axor,South Africa,Medium,Application Issue,Application timeout error encountered,Application Issue
+DT00981,Actros,India,High,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00982,Arocs,Germany,Low,Application Issue,Portal reports not generating,Application Issue
+DT00983,Atego,USA,Medium,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00984,eActros,Brazil,High,Application Issue,User access permissions incorrect,Application Issue
+DT00985,Axor,South Africa,Low,Application Issue,Application timeout error encountered,Application Issue
+DT00986,Actros,India,Medium,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00987,Arocs,Germany,High,Application Issue,Portal reports not generating,Application Issue
+DT00988,Atego,USA,Low,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00989,eActros,Brazil,Medium,Application Issue,User access permissions incorrect,Application Issue
+DT00990,Axor,South Africa,High,Application Issue,Application timeout error encountered,Application Issue
+DT00991,Actros,India,Low,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00992,Arocs,Germany,Medium,Application Issue,Portal reports not generating,Application Issue
+DT00993,Atego,USA,High,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00994,eActros,Brazil,Low,Application Issue,User access permissions incorrect,Application Issue
+DT00995,Axor,South Africa,Medium,Application Issue,Application timeout error encountered,Application Issue
+DT00996,Actros,India,High,Application Issue,Fleetboard login authentication failed,Application Issue
+DT00997,Arocs,Germany,Low,Application Issue,Portal reports not generating,Application Issue
+DT00998,Atego,USA,Medium,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT00999,eActros,Brazil,High,Application Issue,User access permissions incorrect,Application Issue
+DT01000,Axor,South Africa,Low,Application Issue,Application timeout error encountered,Application Issue
+DT01001,Actros,India,Medium,Application Issue,Fleetboard login authentication failed,Application Issue
+DT01002,Arocs,Germany,High,Application Issue,Portal reports not generating,Application Issue
+DT01003,Atego,USA,Low,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT01004,eActros,Brazil,Medium,Application Issue,User access permissions incorrect,Application Issue
+DT01005,Axor,South Africa,High,Application Issue,Application timeout error encountered,Application Issue
+DT01006,Actros,India,Low,Application Issue,Fleetboard login authentication failed,Application Issue
+DT01007,Arocs,Germany,Medium,Application Issue,Portal reports not generating,Application Issue
+DT01008,Atego,USA,High,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT01009,eActros,Brazil,Low,Application Issue,User access permissions incorrect,Application Issue
+DT01010,Axor,South Africa,Medium,Application Issue,Application timeout error encountered,Application Issue
+DT01011,Actros,India,High,Application Issue,Fleetboard login authentication failed,Application Issue
+DT01012,Arocs,Germany,Low,Application Issue,Portal reports not generating,Application Issue
+DT01013,Atego,USA,Medium,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT01014,eActros,Brazil,High,Application Issue,User access permissions incorrect,Application Issue
+DT01015,Axor,South Africa,Low,Application Issue,Application timeout error encountered,Application Issue
+DT01016,Actros,India,Medium,Application Issue,Fleetboard login authentication failed,Application Issue
+DT01017,Arocs,Germany,High,Application Issue,Portal reports not generating,Application Issue
+DT01018,Atego,USA,Low,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT01019,eActros,Brazil,Medium,Application Issue,User access permissions incorrect,Application Issue
+DT01020,Axor,South Africa,High,Application Issue,Application timeout error encountered,Application Issue
+DT01021,Actros,India,Low,Application Issue,Fleetboard login authentication failed,Application Issue
+DT01022,Arocs,Germany,Medium,Application Issue,Portal reports not generating,Application Issue
+DT01023,Atego,USA,High,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT01024,eActros,Brazil,Low,Application Issue,User access permissions incorrect,Application Issue
+DT01025,Axor,South Africa,Medium,Application Issue,Application timeout error encountered,Application Issue
+DT01026,Actros,India,High,Application Issue,Fleetboard login authentication failed,Application Issue
+DT01027,Arocs,Germany,Low,Application Issue,Portal reports not generating,Application Issue
+DT01028,Atego,USA,Medium,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT01029,eActros,Brazil,High,Application Issue,User access permissions incorrect,Application Issue
+DT01030,Axor,South Africa,Low,Application Issue,Application timeout error encountered,Application Issue
+DT01031,Actros,India,Medium,Application Issue,Fleetboard login authentication failed,Application Issue
+DT01032,Arocs,Germany,High,Application Issue,Portal reports not generating,Application Issue
+DT01033,Atego,USA,Low,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT01034,eActros,Brazil,Medium,Application Issue,User access permissions incorrect,Application Issue
+DT01035,Axor,South Africa,High,Application Issue,Application timeout error encountered,Application Issue
+DT01036,Actros,India,Low,Application Issue,Fleetboard login authentication failed,Application Issue
+DT01037,Arocs,Germany,Medium,Application Issue,Portal reports not generating,Application Issue
+DT01038,Atego,USA,High,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT01039,eActros,Brazil,Low,Application Issue,User access permissions incorrect,Application Issue
+DT01040,Axor,South Africa,Medium,Application Issue,Application timeout error encountered,Application Issue
+DT01041,Actros,India,High,Application Issue,Fleetboard login authentication failed,Application Issue
+DT01042,Arocs,Germany,Low,Application Issue,Portal reports not generating,Application Issue
+DT01043,Atego,USA,Medium,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT01044,eActros,Brazil,High,Application Issue,User access permissions incorrect,Application Issue
+DT01045,Axor,South Africa,Low,Application Issue,Application timeout error encountered,Application Issue
+DT01046,Actros,India,Medium,Application Issue,Fleetboard login authentication failed,Application Issue
+DT01047,Arocs,Germany,High,Application Issue,Portal reports not generating,Application Issue
+DT01048,Atego,USA,Low,Application Issue,Mobile app unable to load dashboard,Application Issue
+DT01049,eActros,Brazil,Medium,Application Issue,User access permissions incorrect,Application Issue
+DT01050,Axor,South Africa,High,Application Issue,Application timeout error encountered,Application Issue
+DT01051,Actros,India,Low,Warranty,Warranty approval request pending,Warranty
+DT01052,Arocs,Germany,Medium,Warranty,Warranty claim status not updated,Warranty
+DT01053,Atego,USA,High,Warranty,Warranty coverage validation required,Warranty
+DT01054,eActros,Brazil,Low,Warranty,Warranty reimbursement delayed,Warranty
+DT01055,Axor,South Africa,Medium,Warranty,Warranty documentation missing,Warranty
+DT01056,Actros,India,High,Warranty,Warranty approval request pending,Warranty
+DT01057,Arocs,Germany,Low,Warranty,Warranty claim status not updated,Warranty
+DT01058,Atego,USA,Medium,Warranty,Warranty coverage validation required,Warranty
+DT01059,eActros,Brazil,High,Warranty,Warranty reimbursement delayed,Warranty
+DT01060,Axor,South Africa,Low,Warranty,Warranty documentation missing,Warranty
+DT01061,Actros,India,Medium,Warranty,Warranty approval request pending,Warranty
+DT01062,Arocs,Germany,High,Warranty,Warranty claim status not updated,Warranty
+DT01063,Atego,USA,Low,Warranty,Warranty coverage validation required,Warranty
+DT01064,eActros,Brazil,Medium,Warranty,Warranty reimbursement delayed,Warranty
+DT01065,Axor,South Africa,High,Warranty,Warranty documentation missing,Warranty
+DT01066,Actros,India,Low,Warranty,Warranty approval request pending,Warranty
+DT01067,Arocs,Germany,Medium,Warranty,Warranty claim status not updated,Warranty
+DT01068,Atego,USA,High,Warranty,Warranty coverage validation required,Warranty
+DT01069,eActros,Brazil,Low,Warranty,Warranty reimbursement delayed,Warranty
+DT01070,Axor,South Africa,Medium,Warranty,Warranty documentation missing,Warranty
+DT01071,Actros,India,High,Warranty,Warranty approval request pending,Warranty
+DT01072,Arocs,Germany,Low,Warranty,Warranty claim status not updated,Warranty
+DT01073,Atego,USA,Medium,Warranty,Warranty coverage validation required,Warranty
+DT01074,eActros,Brazil,High,Warranty,Warranty reimbursement delayed,Warranty
+DT01075,Axor,South Africa,Low,Warranty,Warranty documentation missing,Warranty
+DT01076,Actros,India,Medium,Warranty,Warranty approval request pending,Warranty
+DT01077,Arocs,Germany,High,Warranty,Warranty claim status not updated,Warranty
+DT01078,Atego,USA,Low,Warranty,Warranty coverage validation required,Warranty
+DT01079,eActros,Brazil,Medium,Warranty,Warranty reimbursement delayed,Warranty
+DT01080,Axor,South Africa,High,Warranty,Warranty documentation missing,Warranty
+DT01081,Actros,India,Low,Warranty,Warranty approval request pending,Warranty
+DT01082,Arocs,Germany,Medium,Warranty,Warranty claim status not updated,Warranty
+DT01083,Atego,USA,High,Warranty,Warranty coverage validation required,Warranty
+DT01084,eActros,Brazil,Low,Warranty,Warranty reimbursement delayed,Warranty
+DT01085,Axor,South Africa,Medium,Warranty,Warranty documentation missing,Warranty
+DT01086,Actros,India,High,Warranty,Warranty approval request pending,Warranty
+DT01087,Arocs,Germany,Low,Warranty,Warranty claim status not updated,Warranty
+DT01088,Atego,USA,Medium,Warranty,Warranty coverage validation required,Warranty
+DT01089,eActros,Brazil,High,Warranty,Warranty reimbursement delayed,Warranty
+DT01090,Axor,South Africa,Low,Warranty,Warranty documentation missing,Warranty
+DT01091,Actros,India,Medium,Warranty,Warranty approval request pending,Warranty
+DT01092,Arocs,Germany,High,Warranty,Warranty claim status not updated,Warranty
+DT01093,Atego,USA,Low,Warranty,Warranty coverage validation required,Warranty
+DT01094,eActros,Brazil,Medium,Warranty,Warranty reimbursement delayed,Warranty
+DT01095,Axor,South Africa,High,Warranty,Warranty documentation missing,Warranty
+DT01096,Actros,India,Low,Warranty,Warranty approval request pending,Warranty
+DT01097,Arocs,Germany,Medium,Warranty,Warranty claim status not updated,Warranty
+DT01098,Atego,USA,High,Warranty,Warranty coverage validation required,Warranty
+DT01099,eActros,Brazil,Low,Warranty,Warranty reimbursement delayed,Warranty
+DT01100,Axor,South Africa,Medium,Warranty,Warranty documentation missing,Warranty
+DT01101,Actros,India,High,Warranty,Warranty approval request pending,Warranty
+DT01102,Arocs,Germany,Low,Warranty,Warranty claim status not updated,Warranty
+DT01103,Atego,USA,Medium,Warranty,Warranty coverage validation required,Warranty
+DT01104,eActros,Brazil,High,Warranty,Warranty reimbursement delayed,Warranty
+DT01105,Axor,South Africa,Low,Warranty,Warranty documentation missing,Warranty
+DT01106,Actros,India,Medium,Warranty,Warranty approval request pending,Warranty
+DT01107,Arocs,Germany,High,Warranty,Warranty claim status not updated,Warranty
+DT01108,Atego,USA,Low,Warranty,Warranty coverage validation required,Warranty
+DT01109,eActros,Brazil,Medium,Warranty,Warranty reimbursement delayed,Warranty
+DT01110,Axor,South Africa,High,Warranty,Warranty documentation missing,Warranty
+DT01111,Actros,India,Low,Warranty,Warranty approval request pending,Warranty
+DT01112,Arocs,Germany,Medium,Warranty,Warranty claim status not updated,Warranty
+DT01113,Atego,USA,High,Warranty,Warranty coverage validation required,Warranty
+DT01114,eActros,Brazil,Low,Warranty,Warranty reimbursement delayed,Warranty
+DT01115,Axor,South Africa,Medium,Warranty,Warranty documentation missing,Warranty
+DT01116,Actros,India,High,Warranty,Warranty approval request pending,Warranty
+DT01117,Arocs,Germany,Low,Warranty,Warranty claim status not updated,Warranty
+DT01118,Atego,USA,Medium,Warranty,Warranty coverage validation required,Warranty
+DT01119,eActros,Brazil,High,Warranty,Warranty reimbursement delayed,Warranty
+DT01120,Axor,South Africa,Low,Warranty,Warranty documentation missing,Warranty
+DT01121,Actros,India,Medium,Warranty,Warranty approval request pending,Warranty
+DT01122,Arocs,Germany,High,Warranty,Warranty claim status not updated,Warranty
+DT01123,Atego,USA,Low,Warranty,Warranty coverage validation required,Warranty
+DT01124,eActros,Brazil,Medium,Warranty,Warranty reimbursement delayed,Warranty
+DT01125,Axor,South Africa,High,Warranty,Warranty documentation missing,Warranty
+DT01126,Actros,India,Low,Warranty,Warranty approval request pending,Warranty
+DT01127,Arocs,Germany,Medium,Warranty,Warranty claim status not updated,Warranty
+DT01128,Atego,USA,High,Warranty,Warranty coverage validation required,Warranty
+DT01129,eActros,Brazil,Low,Warranty,Warranty reimbursement delayed,Warranty
+DT01130,Axor,South Africa,Medium,Warranty,Warranty documentation missing,Warranty
+DT01131,Actros,India,High,Warranty,Warranty approval request pending,Warranty
+DT01132,Arocs,Germany,Low,Warranty,Warranty claim status not updated,Warranty
+DT01133,Atego,USA,Medium,Warranty,Warranty coverage validation required,Warranty
+DT01134,eActros,Brazil,High,Warranty,Warranty reimbursement delayed,Warranty
+DT01135,Axor,South Africa,Low,Warranty,Warranty documentation missing,Warranty
+DT01136,Actros,India,Medium,Warranty,Warranty approval request pending,Warranty
+DT01137,Arocs,Germany,High,Warranty,Warranty claim status not updated,Warranty
+DT01138,Atego,USA,Low,Warranty,Warranty coverage validation required,Warranty
+DT01139,eActros,Brazil,Medium,Warranty,Warranty reimbursement delayed,Warranty
+DT01140,Axor,South Africa,High,Warranty,Warranty documentation missing,Warranty
+DT01141,Actros,India,Low,Warranty,Warranty approval request pending,Warranty
+DT01142,Arocs,Germany,Medium,Warranty,Warranty claim status not updated,Warranty
+DT01143,Atego,USA,High,Warranty,Warranty coverage validation required,Warranty
+DT01144,eActros,Brazil,Low,Warranty,Warranty reimbursement delayed,Warranty
+DT01145,Axor,South Africa,Medium,Warranty,Warranty documentation missing,Warranty
+DT01146,Actros,India,High,Warranty,Warranty approval request pending,Warranty
+DT01147,Arocs,Germany,Low,Warranty,Warranty claim status not updated,Warranty
+DT01148,Atego,USA,Medium,Warranty,Warranty coverage validation required,Warranty
+DT01149,eActros,Brazil,High,Warranty,Warranty reimbursement delayed,Warranty
+DT01150,Axor,South Africa,Low,Warranty,Warranty documentation missing,Warranty
+DT01151,Actros,India,Medium,Warranty,Warranty approval request pending,Warranty
+DT01152,Arocs,Germany,High,Warranty,Warranty claim status not updated,Warranty
+DT01153,Atego,USA,Low,Warranty,Warranty coverage validation required,Warranty
+DT01154,eActros,Brazil,Medium,Warranty,Warranty reimbursement delayed,Warranty
+DT01155,Axor,South Africa,High,Warranty,Warranty documentation missing,Warranty
+DT01156,Actros,India,Low,Warranty,Warranty approval request pending,Warranty
+DT01157,Arocs,Germany,Medium,Warranty,Warranty claim status not updated,Warranty
+DT01158,Atego,USA,High,Warranty,Warranty coverage validation required,Warranty
+DT01159,eActros,Brazil,Low,Warranty,Warranty reimbursement delayed,Warranty
+DT01160,Axor,South Africa,Medium,Warranty,Warranty documentation missing,Warranty
+DT01161,Actros,India,High,Warranty,Warranty approval request pending,Warranty
+DT01162,Arocs,Germany,Low,Warranty,Warranty claim status not updated,Warranty
+DT01163,Atego,USA,Medium,Warranty,Warranty coverage validation required,Warranty
+DT01164,eActros,Brazil,High,Warranty,Warranty reimbursement delayed,Warranty
+DT01165,Axor,South Africa,Low,Warranty,Warranty documentation missing,Warranty
+DT01166,Actros,India,Medium,Warranty,Warranty approval request pending,Warranty
+DT01167,Arocs,Germany,High,Warranty,Warranty claim status not updated,Warranty
+DT01168,Atego,USA,Low,Warranty,Warranty coverage validation required,Warranty
+DT01169,eActros,Brazil,Medium,Warranty,Warranty reimbursement delayed,Warranty
+DT01170,Axor,South Africa,High,Warranty,Warranty documentation missing,Warranty
+DT01171,Actros,India,Low,Warranty,Warranty approval request pending,Warranty
+DT01172,Arocs,Germany,Medium,Warranty,Warranty claim status not updated,Warranty
+DT01173,Atego,USA,High,Warranty,Warranty coverage validation required,Warranty
+DT01174,eActros,Brazil,Low,Warranty,Warranty reimbursement delayed,Warranty
+DT01175,Axor,South Africa,Medium,Warranty,Warranty documentation missing,Warranty
+DT01176,Actros,India,High,Warranty,Warranty approval request pending,Warranty
+DT01177,Arocs,Germany,Low,Warranty,Warranty claim status not updated,Warranty
+DT01178,Atego,USA,Medium,Warranty,Warranty coverage validation required,Warranty
+DT01179,eActros,Brazil,High,Warranty,Warranty reimbursement delayed,Warranty
+DT01180,Axor,South Africa,Low,Warranty,Warranty documentation missing,Warranty
+DT01181,Actros,India,Medium,Warranty,Warranty approval request pending,Warranty
+DT01182,Arocs,Germany,High,Warranty,Warranty claim status not updated,Warranty
+DT01183,Atego,USA,Low,Warranty,Warranty coverage validation required,Warranty
+DT01184,eActros,Brazil,Medium,Warranty,Warranty reimbursement delayed,Warranty
+DT01185,Axor,South Africa,High,Warranty,Warranty documentation missing,Warranty
+DT01186,Actros,India,Low,Warranty,Warranty approval request pending,Warranty
+DT01187,Arocs,Germany,Medium,Warranty,Warranty claim status not updated,Warranty
+DT01188,Atego,USA,High,Warranty,Warranty coverage validation required,Warranty
+DT01189,eActros,Brazil,Low,Warranty,Warranty reimbursement delayed,Warranty
+DT01190,Axor,South Africa,Medium,Warranty,Warranty documentation missing,Warranty
+DT01191,Actros,India,High,Warranty,Warranty approval request pending,Warranty
+DT01192,Arocs,Germany,Low,Warranty,Warranty claim status not updated,Warranty
+DT01193,Atego,USA,Medium,Warranty,Warranty coverage validation required,Warranty
+DT01194,eActros,Brazil,High,Warranty,Warranty reimbursement delayed,Warranty
+DT01195,Axor,South Africa,Low,Warranty,Warranty documentation missing,Warranty
+DT01196,Actros,India,Medium,Warranty,Warranty approval request pending,Warranty
+DT01197,Arocs,Germany,High,Warranty,Warranty claim status not updated,Warranty
+DT01198,Atego,USA,Low,Warranty,Warranty coverage validation required,Warranty
+DT01199,eActros,Brazil,Medium,Warranty,Warranty reimbursement delayed,Warranty
+DT01200,Axor,South Africa,High,Warranty,Warranty documentation missing,Warranty
+DT01201,Actros,India,Low,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01202,Arocs,Germany,Medium,Maintenance,Service reminder notification received,Maintenance
+DT01203,Atego,USA,High,Maintenance,Maintenance work order creation failed,Maintenance
+DT01204,eActros,Brazil,Low,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01205,Axor,South Africa,Medium,Maintenance,Inspection checklist unavailable,Maintenance
+DT01206,Actros,India,High,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01207,Arocs,Germany,Low,Maintenance,Service reminder notification received,Maintenance
+DT01208,Atego,USA,Medium,Maintenance,Maintenance work order creation failed,Maintenance
+DT01209,eActros,Brazil,High,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01210,Axor,South Africa,Low,Maintenance,Inspection checklist unavailable,Maintenance
+DT01211,Actros,India,Medium,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01212,Arocs,Germany,High,Maintenance,Service reminder notification received,Maintenance
+DT01213,Atego,USA,Low,Maintenance,Maintenance work order creation failed,Maintenance
+DT01214,eActros,Brazil,Medium,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01215,Axor,South Africa,High,Maintenance,Inspection checklist unavailable,Maintenance
+DT01216,Actros,India,Low,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01217,Arocs,Germany,Medium,Maintenance,Service reminder notification received,Maintenance
+DT01218,Atego,USA,High,Maintenance,Maintenance work order creation failed,Maintenance
+DT01219,eActros,Brazil,Low,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01220,Axor,South Africa,Medium,Maintenance,Inspection checklist unavailable,Maintenance
+DT01221,Actros,India,High,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01222,Arocs,Germany,Low,Maintenance,Service reminder notification received,Maintenance
+DT01223,Atego,USA,Medium,Maintenance,Maintenance work order creation failed,Maintenance
+DT01224,eActros,Brazil,High,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01225,Axor,South Africa,Low,Maintenance,Inspection checklist unavailable,Maintenance
+DT01226,Actros,India,Medium,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01227,Arocs,Germany,High,Maintenance,Service reminder notification received,Maintenance
+DT01228,Atego,USA,Low,Maintenance,Maintenance work order creation failed,Maintenance
+DT01229,eActros,Brazil,Medium,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01230,Axor,South Africa,High,Maintenance,Inspection checklist unavailable,Maintenance
+DT01231,Actros,India,Low,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01232,Arocs,Germany,Medium,Maintenance,Service reminder notification received,Maintenance
+DT01233,Atego,USA,High,Maintenance,Maintenance work order creation failed,Maintenance
+DT01234,eActros,Brazil,Low,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01235,Axor,South Africa,Medium,Maintenance,Inspection checklist unavailable,Maintenance
+DT01236,Actros,India,High,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01237,Arocs,Germany,Low,Maintenance,Service reminder notification received,Maintenance
+DT01238,Atego,USA,Medium,Maintenance,Maintenance work order creation failed,Maintenance
+DT01239,eActros,Brazil,High,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01240,Axor,South Africa,Low,Maintenance,Inspection checklist unavailable,Maintenance
+DT01241,Actros,India,Medium,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01242,Arocs,Germany,High,Maintenance,Service reminder notification received,Maintenance
+DT01243,Atego,USA,Low,Maintenance,Maintenance work order creation failed,Maintenance
+DT01244,eActros,Brazil,Medium,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01245,Axor,South Africa,High,Maintenance,Inspection checklist unavailable,Maintenance
+DT01246,Actros,India,Low,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01247,Arocs,Germany,Medium,Maintenance,Service reminder notification received,Maintenance
+DT01248,Atego,USA,High,Maintenance,Maintenance work order creation failed,Maintenance
+DT01249,eActros,Brazil,Low,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01250,Axor,South Africa,Medium,Maintenance,Inspection checklist unavailable,Maintenance
+DT01251,Actros,India,High,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01252,Arocs,Germany,Low,Maintenance,Service reminder notification received,Maintenance
+DT01253,Atego,USA,Medium,Maintenance,Maintenance work order creation failed,Maintenance
+DT01254,eActros,Brazil,High,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01255,Axor,South Africa,Low,Maintenance,Inspection checklist unavailable,Maintenance
+DT01256,Actros,India,Medium,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01257,Arocs,Germany,High,Maintenance,Service reminder notification received,Maintenance
+DT01258,Atego,USA,Low,Maintenance,Maintenance work order creation failed,Maintenance
+DT01259,eActros,Brazil,Medium,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01260,Axor,South Africa,High,Maintenance,Inspection checklist unavailable,Maintenance
+DT01261,Actros,India,Low,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01262,Arocs,Germany,Medium,Maintenance,Service reminder notification received,Maintenance
+DT01263,Atego,USA,High,Maintenance,Maintenance work order creation failed,Maintenance
+DT01264,eActros,Brazil,Low,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01265,Axor,South Africa,Medium,Maintenance,Inspection checklist unavailable,Maintenance
+DT01266,Actros,India,High,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01267,Arocs,Germany,Low,Maintenance,Service reminder notification received,Maintenance
+DT01268,Atego,USA,Medium,Maintenance,Maintenance work order creation failed,Maintenance
+DT01269,eActros,Brazil,High,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01270,Axor,South Africa,Low,Maintenance,Inspection checklist unavailable,Maintenance
+DT01271,Actros,India,Medium,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01272,Arocs,Germany,High,Maintenance,Service reminder notification received,Maintenance
+DT01273,Atego,USA,Low,Maintenance,Maintenance work order creation failed,Maintenance
+DT01274,eActros,Brazil,Medium,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01275,Axor,South Africa,High,Maintenance,Inspection checklist unavailable,Maintenance
+DT01276,Actros,India,Low,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01277,Arocs,Germany,Medium,Maintenance,Service reminder notification received,Maintenance
+DT01278,Atego,USA,High,Maintenance,Maintenance work order creation failed,Maintenance
+DT01279,eActros,Brazil,Low,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01280,Axor,South Africa,Medium,Maintenance,Inspection checklist unavailable,Maintenance
+DT01281,Actros,India,High,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01282,Arocs,Germany,Low,Maintenance,Service reminder notification received,Maintenance
+DT01283,Atego,USA,Medium,Maintenance,Maintenance work order creation failed,Maintenance
+DT01284,eActros,Brazil,High,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01285,Axor,South Africa,Low,Maintenance,Inspection checklist unavailable,Maintenance
+DT01286,Actros,India,Medium,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01287,Arocs,Germany,High,Maintenance,Service reminder notification received,Maintenance
+DT01288,Atego,USA,Low,Maintenance,Maintenance work order creation failed,Maintenance
+DT01289,eActros,Brazil,Medium,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01290,Axor,South Africa,High,Maintenance,Inspection checklist unavailable,Maintenance
+DT01291,Actros,India,Low,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01292,Arocs,Germany,Medium,Maintenance,Service reminder notification received,Maintenance
+DT01293,Atego,USA,High,Maintenance,Maintenance work order creation failed,Maintenance
+DT01294,eActros,Brazil,Low,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01295,Axor,South Africa,Medium,Maintenance,Inspection checklist unavailable,Maintenance
+DT01296,Actros,India,High,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01297,Arocs,Germany,Low,Maintenance,Service reminder notification received,Maintenance
+DT01298,Atego,USA,Medium,Maintenance,Maintenance work order creation failed,Maintenance
+DT01299,eActros,Brazil,High,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01300,Axor,South Africa,Low,Maintenance,Inspection checklist unavailable,Maintenance
+DT01301,Actros,India,Medium,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01302,Arocs,Germany,High,Maintenance,Service reminder notification received,Maintenance
+DT01303,Atego,USA,Low,Maintenance,Maintenance work order creation failed,Maintenance
+DT01304,eActros,Brazil,Medium,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01305,Axor,South Africa,High,Maintenance,Inspection checklist unavailable,Maintenance
+DT01306,Actros,India,Low,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01307,Arocs,Germany,Medium,Maintenance,Service reminder notification received,Maintenance
+DT01308,Atego,USA,High,Maintenance,Maintenance work order creation failed,Maintenance
+DT01309,eActros,Brazil,Low,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01310,Axor,South Africa,Medium,Maintenance,Inspection checklist unavailable,Maintenance
+DT01311,Actros,India,High,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01312,Arocs,Germany,Low,Maintenance,Service reminder notification received,Maintenance
+DT01313,Atego,USA,Medium,Maintenance,Maintenance work order creation failed,Maintenance
+DT01314,eActros,Brazil,High,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01315,Axor,South Africa,Low,Maintenance,Inspection checklist unavailable,Maintenance
+DT01316,Actros,India,Medium,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01317,Arocs,Germany,High,Maintenance,Service reminder notification received,Maintenance
+DT01318,Atego,USA,Low,Maintenance,Maintenance work order creation failed,Maintenance
+DT01319,eActros,Brazil,Medium,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01320,Axor,South Africa,High,Maintenance,Inspection checklist unavailable,Maintenance
+DT01321,Actros,India,Low,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01322,Arocs,Germany,Medium,Maintenance,Service reminder notification received,Maintenance
+DT01323,Atego,USA,High,Maintenance,Maintenance work order creation failed,Maintenance
+DT01324,eActros,Brazil,Low,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01325,Axor,South Africa,Medium,Maintenance,Inspection checklist unavailable,Maintenance
+DT01326,Actros,India,High,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01327,Arocs,Germany,Low,Maintenance,Service reminder notification received,Maintenance
+DT01328,Atego,USA,Medium,Maintenance,Maintenance work order creation failed,Maintenance
+DT01329,eActros,Brazil,High,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01330,Axor,South Africa,Low,Maintenance,Inspection checklist unavailable,Maintenance
+DT01331,Actros,India,Medium,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01332,Arocs,Germany,High,Maintenance,Service reminder notification received,Maintenance
+DT01333,Atego,USA,Low,Maintenance,Maintenance work order creation failed,Maintenance
+DT01334,eActros,Brazil,Medium,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01335,Axor,South Africa,High,Maintenance,Inspection checklist unavailable,Maintenance
+DT01336,Actros,India,Low,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01337,Arocs,Germany,Medium,Maintenance,Service reminder notification received,Maintenance
+DT01338,Atego,USA,High,Maintenance,Maintenance work order creation failed,Maintenance
+DT01339,eActros,Brazil,Low,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01340,Axor,South Africa,Medium,Maintenance,Inspection checklist unavailable,Maintenance
+DT01341,Actros,India,High,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01342,Arocs,Germany,Low,Maintenance,Service reminder notification received,Maintenance
+DT01343,Atego,USA,Medium,Maintenance,Maintenance work order creation failed,Maintenance
+DT01344,eActros,Brazil,High,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01345,Axor,South Africa,Low,Maintenance,Inspection checklist unavailable,Maintenance
+DT01346,Actros,India,Medium,Maintenance,Preventive maintenance scheduling request,Maintenance
+DT01347,Arocs,Germany,High,Maintenance,Service reminder notification received,Maintenance
+DT01348,Atego,USA,Low,Maintenance,Maintenance work order creation failed,Maintenance
+DT01349,eActros,Brazil,Medium,Maintenance,Vehicle due for scheduled service,Maintenance
+DT01350,Axor,South Africa,High,Maintenance,Inspection checklist unavailable,Maintenance
+DT01351,Actros,India,Low,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01352,Arocs,Germany,Medium,Infotainment,Radio not functioning properly,Infotainment
+DT01353,Atego,USA,High,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01354,eActros,Brazil,Low,Infotainment,Display screen frozen during operation,Infotainment
+DT01355,Axor,South Africa,Medium,Infotainment,Audio system intermittent failure,Infotainment
+DT01356,Actros,India,High,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01357,Arocs,Germany,Low,Infotainment,Radio not functioning properly,Infotainment
+DT01358,Atego,USA,Medium,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01359,eActros,Brazil,High,Infotainment,Display screen frozen during operation,Infotainment
+DT01360,Axor,South Africa,Low,Infotainment,Audio system intermittent failure,Infotainment
+DT01361,Actros,India,Medium,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01362,Arocs,Germany,High,Infotainment,Radio not functioning properly,Infotainment
+DT01363,Atego,USA,Low,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01364,eActros,Brazil,Medium,Infotainment,Display screen frozen during operation,Infotainment
+DT01365,Axor,South Africa,High,Infotainment,Audio system intermittent failure,Infotainment
+DT01366,Actros,India,Low,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01367,Arocs,Germany,Medium,Infotainment,Radio not functioning properly,Infotainment
+DT01368,Atego,USA,High,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01369,eActros,Brazil,Low,Infotainment,Display screen frozen during operation,Infotainment
+DT01370,Axor,South Africa,Medium,Infotainment,Audio system intermittent failure,Infotainment
+DT01371,Actros,India,High,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01372,Arocs,Germany,Low,Infotainment,Radio not functioning properly,Infotainment
+DT01373,Atego,USA,Medium,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01374,eActros,Brazil,High,Infotainment,Display screen frozen during operation,Infotainment
+DT01375,Axor,South Africa,Low,Infotainment,Audio system intermittent failure,Infotainment
+DT01376,Actros,India,Medium,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01377,Arocs,Germany,High,Infotainment,Radio not functioning properly,Infotainment
+DT01378,Atego,USA,Low,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01379,eActros,Brazil,Medium,Infotainment,Display screen frozen during operation,Infotainment
+DT01380,Axor,South Africa,High,Infotainment,Audio system intermittent failure,Infotainment
+DT01381,Actros,India,Low,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01382,Arocs,Germany,Medium,Infotainment,Radio not functioning properly,Infotainment
+DT01383,Atego,USA,High,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01384,eActros,Brazil,Low,Infotainment,Display screen frozen during operation,Infotainment
+DT01385,Axor,South Africa,Medium,Infotainment,Audio system intermittent failure,Infotainment
+DT01386,Actros,India,High,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01387,Arocs,Germany,Low,Infotainment,Radio not functioning properly,Infotainment
+DT01388,Atego,USA,Medium,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01389,eActros,Brazil,High,Infotainment,Display screen frozen during operation,Infotainment
+DT01390,Axor,South Africa,Low,Infotainment,Audio system intermittent failure,Infotainment
+DT01391,Actros,India,Medium,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01392,Arocs,Germany,High,Infotainment,Radio not functioning properly,Infotainment
+DT01393,Atego,USA,Low,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01394,eActros,Brazil,Medium,Infotainment,Display screen frozen during operation,Infotainment
+DT01395,Axor,South Africa,High,Infotainment,Audio system intermittent failure,Infotainment
+DT01396,Actros,India,Low,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01397,Arocs,Germany,Medium,Infotainment,Radio not functioning properly,Infotainment
+DT01398,Atego,USA,High,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01399,eActros,Brazil,Low,Infotainment,Display screen frozen during operation,Infotainment
+DT01400,Axor,South Africa,Medium,Infotainment,Audio system intermittent failure,Infotainment
+DT01401,Actros,India,High,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01402,Arocs,Germany,Low,Infotainment,Radio not functioning properly,Infotainment
+DT01403,Atego,USA,Medium,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01404,eActros,Brazil,High,Infotainment,Display screen frozen during operation,Infotainment
+DT01405,Axor,South Africa,Low,Infotainment,Audio system intermittent failure,Infotainment
+DT01406,Actros,India,Medium,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01407,Arocs,Germany,High,Infotainment,Radio not functioning properly,Infotainment
+DT01408,Atego,USA,Low,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01409,eActros,Brazil,Medium,Infotainment,Display screen frozen during operation,Infotainment
+DT01410,Axor,South Africa,High,Infotainment,Audio system intermittent failure,Infotainment
+DT01411,Actros,India,Low,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01412,Arocs,Germany,Medium,Infotainment,Radio not functioning properly,Infotainment
+DT01413,Atego,USA,High,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01414,eActros,Brazil,Low,Infotainment,Display screen frozen during operation,Infotainment
+DT01415,Axor,South Africa,Medium,Infotainment,Audio system intermittent failure,Infotainment
+DT01416,Actros,India,High,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01417,Arocs,Germany,Low,Infotainment,Radio not functioning properly,Infotainment
+DT01418,Atego,USA,Medium,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01419,eActros,Brazil,High,Infotainment,Display screen frozen during operation,Infotainment
+DT01420,Axor,South Africa,Low,Infotainment,Audio system intermittent failure,Infotainment
+DT01421,Actros,India,Medium,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01422,Arocs,Germany,High,Infotainment,Radio not functioning properly,Infotainment
+DT01423,Atego,USA,Low,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01424,eActros,Brazil,Medium,Infotainment,Display screen frozen during operation,Infotainment
+DT01425,Axor,South Africa,High,Infotainment,Audio system intermittent failure,Infotainment
+DT01426,Actros,India,Low,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01427,Arocs,Germany,Medium,Infotainment,Radio not functioning properly,Infotainment
+DT01428,Atego,USA,High,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01429,eActros,Brazil,Low,Infotainment,Display screen frozen during operation,Infotainment
+DT01430,Axor,South Africa,Medium,Infotainment,Audio system intermittent failure,Infotainment
+DT01431,Actros,India,High,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01432,Arocs,Germany,Low,Infotainment,Radio not functioning properly,Infotainment
+DT01433,Atego,USA,Medium,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01434,eActros,Brazil,High,Infotainment,Display screen frozen during operation,Infotainment
+DT01435,Axor,South Africa,Low,Infotainment,Audio system intermittent failure,Infotainment
+DT01436,Actros,India,Medium,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01437,Arocs,Germany,High,Infotainment,Radio not functioning properly,Infotainment
+DT01438,Atego,USA,Low,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01439,eActros,Brazil,Medium,Infotainment,Display screen frozen during operation,Infotainment
+DT01440,Axor,South Africa,High,Infotainment,Audio system intermittent failure,Infotainment
+DT01441,Actros,India,Low,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01442,Arocs,Germany,Medium,Infotainment,Radio not functioning properly,Infotainment
+DT01443,Atego,USA,High,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01444,eActros,Brazil,Low,Infotainment,Display screen frozen during operation,Infotainment
+DT01445,Axor,South Africa,Medium,Infotainment,Audio system intermittent failure,Infotainment
+DT01446,Actros,India,High,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01447,Arocs,Germany,Low,Infotainment,Radio not functioning properly,Infotainment
+DT01448,Atego,USA,Medium,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01449,eActros,Brazil,High,Infotainment,Display screen frozen during operation,Infotainment
+DT01450,Axor,South Africa,Low,Infotainment,Audio system intermittent failure,Infotainment
+DT01451,Actros,India,Medium,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01452,Arocs,Germany,High,Infotainment,Radio not functioning properly,Infotainment
+DT01453,Atego,USA,Low,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01454,eActros,Brazil,Medium,Infotainment,Display screen frozen during operation,Infotainment
+DT01455,Axor,South Africa,High,Infotainment,Audio system intermittent failure,Infotainment
+DT01456,Actros,India,Low,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01457,Arocs,Germany,Medium,Infotainment,Radio not functioning properly,Infotainment
+DT01458,Atego,USA,High,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01459,eActros,Brazil,Low,Infotainment,Display screen frozen during operation,Infotainment
+DT01460,Axor,South Africa,Medium,Infotainment,Audio system intermittent failure,Infotainment
+DT01461,Actros,India,High,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01462,Arocs,Germany,Low,Infotainment,Radio not functioning properly,Infotainment
+DT01463,Atego,USA,Medium,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01464,eActros,Brazil,High,Infotainment,Display screen frozen during operation,Infotainment
+DT01465,Axor,South Africa,Low,Infotainment,Audio system intermittent failure,Infotainment
+DT01466,Actros,India,Medium,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01467,Arocs,Germany,High,Infotainment,Radio not functioning properly,Infotainment
+DT01468,Atego,USA,Low,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01469,eActros,Brazil,Medium,Infotainment,Display screen frozen during operation,Infotainment
+DT01470,Axor,South Africa,High,Infotainment,Audio system intermittent failure,Infotainment
+DT01471,Actros,India,Low,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01472,Arocs,Germany,Medium,Infotainment,Radio not functioning properly,Infotainment
+DT01473,Atego,USA,High,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01474,eActros,Brazil,Low,Infotainment,Display screen frozen during operation,Infotainment
+DT01475,Axor,South Africa,Medium,Infotainment,Audio system intermittent failure,Infotainment
+DT01476,Actros,India,High,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01477,Arocs,Germany,Low,Infotainment,Radio not functioning properly,Infotainment
+DT01478,Atego,USA,Medium,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01479,eActros,Brazil,High,Infotainment,Display screen frozen during operation,Infotainment
+DT01480,Axor,South Africa,Low,Infotainment,Audio system intermittent failure,Infotainment
+DT01481,Actros,India,Medium,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01482,Arocs,Germany,High,Infotainment,Radio not functioning properly,Infotainment
+DT01483,Atego,USA,Low,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01484,eActros,Brazil,Medium,Infotainment,Display screen frozen during operation,Infotainment
+DT01485,Axor,South Africa,High,Infotainment,Audio system intermittent failure,Infotainment
+DT01486,Actros,India,Low,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01487,Arocs,Germany,Medium,Infotainment,Radio not functioning properly,Infotainment
+DT01488,Atego,USA,High,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01489,eActros,Brazil,Low,Infotainment,Display screen frozen during operation,Infotainment
+DT01490,Axor,South Africa,Medium,Infotainment,Audio system intermittent failure,Infotainment
+DT01491,Actros,India,High,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01492,Arocs,Germany,Low,Infotainment,Radio not functioning properly,Infotainment
+DT01493,Atego,USA,Medium,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01494,eActros,Brazil,High,Infotainment,Display screen frozen during operation,Infotainment
+DT01495,Axor,South Africa,Low,Infotainment,Audio system intermittent failure,Infotainment
+DT01496,Actros,India,Medium,Infotainment,Navigation system displaying incorrect routes,Infotainment
+DT01497,Arocs,Germany,High,Infotainment,Radio not functioning properly,Infotainment
+DT01498,Atego,USA,Low,Infotainment,Bluetooth connectivity issue,Infotainment
+DT01499,eActros,Brazil,Medium,Infotainment,Display screen frozen during operation,Infotainment
+DT01500,Axor,South Africa,High,Infotainment,Audio system intermittent failure,Infotainment
